@@ -5325,6 +5325,11 @@ gatsby-plugin-sass@^2.1.24:
     "@babel/runtime" "^7.7.4"
     sass-loader "^7.3.1"
 
+gatsby-plugin-stencil@0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-stencil/-/gatsby-plugin-stencil-0.0.1.tgz#548c271570f078ad3f39dc5ef5e06fa389036a58"
+  integrity sha512-QaiRcreWjR/UhyNpVLQOw6b6PNmwH/GMCy3tQj93XgZmxyKtIw0Q8/4uoAnAgqsaNPGEJrHh8bpYjHBPNQ7e6g==
+
 gatsby-react-router-scroll@^2.2.1:
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/gatsby-react-router-scroll/-/gatsby-react-router-scroll-2.2.1.tgz#6fbdb67af08c0f0493503971f4cdc19462f10841"

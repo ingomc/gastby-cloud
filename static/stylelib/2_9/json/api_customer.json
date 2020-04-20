@@ -1,0 +1,31 @@
+{
+  "firstName": "Pentest",
+  "lastName": "Huk24",
+  "salutationId": 1,
+  "salutation": "Frau",
+  "dateOfBirth": "1970-01-01",
+  "gender": "W",
+  "phone": {
+    "numberHome": {
+      "prefix": "0049"
+    }
+  },
+  "mail": {
+    "email": "inc@inc.com"
+  },
+  "address": {
+    "postalCode": "96450",
+    "city": "Coburg",
+    "street": "Sonneberger Str. 1",
+    "streetWithoutHousenumber": "Sonneberger Str.",
+    "housenumber": "1",
+    "country": "Bundesrepublik Deutschland"
+  },
+  "emailing": false,
+  "outbound": false,
+  "werbesperre": false,
+  "hukContract": true,
+  "adStop": false,
+  "dataPrivacy": false,
+  "adAgreement": false
+}

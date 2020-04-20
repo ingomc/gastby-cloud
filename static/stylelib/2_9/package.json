@@ -1,0 +1,52 @@
+{
+  "_from": "huk24-stylelib@^2.9.101",
+  "_id": "huk24-stylelib@2.9.177",
+  "_inBundle": false,
+  "_integrity": "sha512-aJamTKefx8FhsoN1isbBMHGIQQ2T6yVNlQ2fFnM/8bvuPEdVsILjPRHAfycnsbbvj/oJitpWGmq5nJrmqkKeqw==",
+  "_location": "/huk24-stylelib",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "huk24-stylelib@^2.9.101",
+    "name": "huk24-stylelib",
+    "escapedName": "huk24-stylelib",
+    "rawSpec": "^2.9.101",
+    "saveSpec": null,
+    "fetchSpec": "^2.9.101"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://nexus-devportal.de.dmz.tuhuk.de/repository/npmjs-public/huk24-stylelib/-/huk24-stylelib-2.9.177.tgz",
+  "_shasum": "e971af1eecb91bd24f8bff9dfef16db014ae5418",
+  "_spec": "huk24-stylelib@^2.9.101",
+  "_where": "/Users/ap4716/Documents/repositorys/web-huk24-apps_Master",
+  "baseHref": "/stylelib/2_9/",
+  "bundleDependencies": false,
+  "de_huk": {
+    "deploy": [
+      "DE"
+    ]
+  },
+  "dependencies": {},
+  "deprecated": false,
+  "devDependencies": {},
+  "es2015": "js/esm/index.mjs",
+  "es2017": "js/esm/index.mjs",
+  "fractal": {
+    "main": "fractal.config.js"
+  },
+  "main": "js/index.js",
+  "module": "js/index.mjs",
+  "name": "huk24-stylelib",
+  "peerDependencies": {
+    "@huk24-apps/text-mask": "^0.2.5"
+  },
+  "publishConfig": {
+    "registry": "https://nexus-devportal.de.dmz.tuhuk.de/repository/huk-internet-npm/"
+  },
+  "scripts": {},
+  "types": "js/index.d.ts",
+  "version": "2.9.177"
+}

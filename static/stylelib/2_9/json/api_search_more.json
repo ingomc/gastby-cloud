@@ -1,0 +1,231 @@
+{
+  "success": true,
+  "message": "answer_given",
+  "result": {
+    "matchingResults": 10,
+    "passages": [],
+    "documents": [
+      {
+        "id": "7814",
+        "resultMetadata": {
+          "score": null,
+          "confidence": null
+        },
+        "extractedMetadata": null,
+        "uid": "7814",
+        "title": "Unterschiede zwischen Basis- und Classic-Tarif in der Pkw-Versicherung",
+        "html": "<html xmlns=\"http://www.w3.org/1999/xhtml\"><head><style>p{margin-top:0px;margin-bottom:0px;}body{font-size:12pt;font-family:Arial;font-weight:normal;}body{font-family:Arial;font-size:10pt;}</style></head><body><p class=\"null1\"><strong>Profitieren Sie von erstklassigen Leistungen! </strong><span style=\"font-weight:bold;\">Sie haben die Wahl!</span></p><p class=\"null1\">Entscheiden Sie sich beim Abschluss Ihrer Pkw-Versicherung zwischen dem umfassenden Classic-Tarif mit vielen Extras oder dem kosteng&#252;nstigen Basis-Tarif mit eingeschr&#228;nkten Leistungen.</p><p>&nbsp;</p><table border=\"1\" cellpadding=\"4\" valign=\"top\" cellspacing=\"0\"><tr bgcolor=\"d8d8d8\"><td width=\"500 px\"><strong>Unterschiede in der Kfz-Haftpflicht</strong></td><td align=\"center\" width=\"250 px\"><strong>Classic Tarif</strong></td><td align=\"center\" width=\"250 px\"><strong>Basis Tarif</strong></td></tr><tr><td width=\"500 px\"><a href=\"textobj://4742\">Mallorca-Police</a><br></td><td align=\"center\" width=\"250 px\"><img src=\"/content/dam/huk24/zentralelemente/haken_mittel.gif\"></td><td align=\"center\" width=\"250 px\"><img src=\"/content/dam/huk24/zentralelemente/kreuz_mittel.gif\"></td></tr><tr bgcolor=\"d8d8d8\"><td width=\"500 px\"><strong>Unterschiede in der Kaskoversicherung</strong></td><td align=\"center\" width=\"250 px\"><strong>Classic Tarif</strong></td><td align=\"center\" width=\"250 px\"><strong>Basis Tarif</strong></td></tr><tr><td width=\"500 px\"><a href=\"textobj://13976\">Sch&#228;den durch einen Zusammensto&#223; mit Tieren aller Art</a><br></td><td align=\"center\" width=\"250 px\"><img src=\"/content/dam/huk24/zentralelemente/haken_mittel.gif\"></td><td align=\"center\" width=\"250 px\"><img src=\"/content/dam/huk24/zentralelemente/kreuz_mittel.gif\"><br>Nur Wildsch&#228;den</td></tr><tr><td width=\"500 px\"><strong>Tierbiss </strong><strong style=\"font-weight:normal;\">(z. B. durch einen Marder) inklusive Folgesch&#228;den bis 3000 &#8364; je Schadenfall</strong></td><td align=\"center\" width=\"250 px\"><p><img src=\"/content/dam/huk24/zentralelemente/haken_mittel.gif\"></p></td><td align=\"center\" width=\"250 px\"><img src=\"/content/dam/huk24/zentralelemente/kreuz_mittel.gif\"></td></tr><tr><td width=\"500 px\"><strong>Sch&#228;den durch Lawinen</strong></td><td align=\"center\" width=\"250 px\"><img src=\"/content/dam/huk24/zentralelemente/haken_mittel.gif\"></td><td align=\"center\" width=\"250 px\"><img src=\"/content/dam/huk24/zentralelemente/kreuz_mittel.gif\"></td></tr><tr><td width=\"500 px\"><strong>Austausch von T&#252;r- und Lenkradschl&#246;ssern</strong><strong style=\"font-weight:normal;\">, wenn die Fahrzeugschl&#252;ssel anl&#228;sslich eines Einbruchdiebstahls, nicht aus dem Kraftfahrzeug oder durch Raub entwendet wurden.</strong></td><td align=\"center\" width=\"250 px\"><img src=\"/content/dam/huk24/zentralelemente/haken_mittel.gif\"></td><td align=\"center\" width=\"250 px\"><p class=\"null1\"><img src=\"/content/dam/huk24/zentralelemente/kreuz_mittel.gif\"></p></td></tr><tr><td width=\"500 px\"><strong>Neupreisentsch&#228;digung</strong></td><td align=\"center\" width=\"250 px\"><img src=\"/content/dam/huk24/zentralelemente/haken_mittel.gif\"><p class=\"null1\">18 Monate ab Erstzulassung</p></td><td align=\"center\" width=\"250 px\"><img src=\"/content/dam/huk24/zentralelemente/haken_mittel.gif\"><br>6 Monate ab Erstzulassung</td></tr><tr><td width=\"500 px\"><strong>Differenzkasko </strong><strong style=\"font-weight:normal;\">f&#252;r geleaste Fahrzeuge (GAP)</strong></td><td align=\"center\" width=\"250 px\"><img src=\"/content/dam/huk24/zentralelemente/haken_mittel.gif\"><p class=\"null1\">in der Vollkasko enthalten</p></td><td align=\"center\" width=\"250 px\"><img src=\"/content/dam/huk24/zentralelemente/kreuz_mittel.gif\"></td></tr><tr bgcolor=\"d8d8d8\"><td width=\"500 px\"><strong>Unterschiede bei Zusatzbausteinen</strong></td><td align=\"center\" width=\"250 px\"><strong>Classic Tarif</strong></td><td align=\"center\" width=\"250 px\"><strong>Basis Tarif</strong></td></tr><tr><td width=\"500 px\">Rabattschutz abschlie&#223;bar<br></td><td align=\"center\" width=\"250 px\"><img src=\"/content/dam/huk24/zentralelemente/haken_mittel.gif\"></td><td align=\"center\" width=\"250 px\"><img src=\"/content/dam/huk24/zentralelemente/kreuz_mittel.gif\"></td></tr><tr><td width=\"500 px\">Ausland-Schadenschutz abschlie&#223;bar<br></td><td align=\"center\" width=\"250 px\"><img src=\"/content/dam/huk24/zentralelemente/haken_mittel.gif\"></td><td align=\"center\" width=\"250 px\"><img src=\"/content/dam/huk24/zentralelemente/kreuz_mittel.gif\"></td></tr></table><p class=\"null1\">&nbsp;</p><p class=\"null1\">Einzelheiten zu den beiden Tarifen und den unterschiedlichen R&#252;ckstufungen im Schadenfall k&#246;nnen Sie den geltenden Versicherungsbedingungen entnehmen.<br></p></body></html>",
+        "text": "",
+        "hashTitle": "",
+        "hashHtml": "",
+        "hashCategories": null,
+        "categories": ["Versicherung", "Fahrzeuge"],
+        "enrichedText": null,
+        "highlights": null
+      },
+      {
+        "id": "223",
+        "resultMetadata": {
+          "score": null,
+          "confidence": null
+        },
+        "extractedMetadata": null,
+        "uid": "223",
+        "title": "Kündigung  der Vorversicherung in der Kfz-Versicherung",
+        "html": "<html xmlns=\"http://www.w3.org/1999/xhtml\"><head><style>p{margin-top:0px;margin-bottom:0px;}body{font-size:12pt;font-family:Arial;font-weight:normal;}</style></head><body><p>Sie k&#246;nnen Ihre derzeitige KFZ-Versicherung unter folgenden Umst&#228;nden k&#252;ndigen bzw. beenden:<br><br><strong>K&#252;ndigung zum Ende der Vertragslaufzeit</strong><br><br>Sie k&#246;nnen Ihre Kfz-Versicherung zum Ablauf des Versicherungsjahres k&#252;ndigen. Bei PKW-Vertr&#228;gen ist das in der Regel der 01.01. eines Jahres. Ihre K&#252;ndigung muss Ihrem derzeitigen Versicherer mindestens einen Monat (K&#252;ndigungsfrist) vor dem Ende der Vertragslaufzeit zugehen.<br><br><strong>K&#252;ndigung bei einer Beitragserh&#246;hung</strong><br><br>Sie k&#246;nnen auch nach Ablauf der K&#252;ndigungsfrist k&#252;ndigen, wenn sich die Beitr&#228;ge Ihrer bisherigen Versicherung erh&#246;ht haben und Ihnen der andere Versicherer ein Sonderk&#252;ndigungsrecht einger&#228;umt hat. Die K&#252;ndigungsfrist betr&#228;gt einen Monat und beginnt an dem Tag, an dem Ihnen die Mitteilung &#252;ber die Beitragserh&#246;hung zugegangen ist.<br><br><strong>K&#252;ndigung im Schadenfall</strong><br><br>Im Schadenfall ist die K&#252;ndigung der Versicherung innerhalb eines Monats nach Erhalt der Schadenabschlussmeldung (bzw. eines Ablehnungsschreibens) m&#246;glich.<br><br><strong>Beendigung bei einem Fahrzeugwechsel<br><br></strong>Eine KFZ-Versicherung schlie&#223;en Sie immer f&#252;r Ihr jeweiliges Fahrzeug ab. Bei jedem Fahrzeugwechsel k&#246;nnen Sie die Versicherung f&#252;r Ihr neues Fahrzeug neu w&#228;hlen.<br><br><strong>Muster K&#252;ndigung</strong><br><br>Hier finden Sie ein <a href=\"https://www.huk24.de/content/dam/huk24/versicherungen/kuendigung.pdf\">Muster-Formular</a>, dass Sie f&#252;r die K&#252;ndigung Ihres bisherigen Versicherers verwenden k&#246;nnen.</p></body></html>",
+        "text": "",
+        "hashTitle": "",
+        "hashHtml": "",
+        "hashCategories": null,
+        "categories": [
+          "Schadenservice",
+          "Fahrzeuge",
+          "KFZ-Allgemein",
+          "KFZ-Kündigung/Verkauf",
+          "Versicherung",
+          "Wie funktioniert die HUK24?",
+          "Servicebereich Meine HUK24",
+          "Technische Hilfe"
+        ],
+        "enrichedText": null,
+        "highlights": null
+      },
+      {
+        "id": "68924",
+        "resultMetadata": {
+          "score": null,
+          "confidence": null
+        },
+        "extractedMetadata": null,
+        "uid": "68924",
+        "title": "Probleme mit der Fahrzeugsuche - Luxus-PKW",
+        "html": "<html><head><style>p{margin-top:0px;margin-bottom:0px;}body{font-size:12pt;font-family:Arial;font-weight:normal;}</style></head><body>F&#252;r sogenannte Luxus-PKW, wie beispielsweise Ferrari, ist der Abschluss einer KFZ-Versicherung bei der HUK24 leider nicht m&#246;glich. Gerne unterbreitet Ihnen die HUK-COBURG unter der Telefonnummer 0800-2 153 153 ein unverbindliches Angebot (kostenlos aus deutschen Telefonnetzen).</body></html>",
+        "text": "",
+        "hashTitle": "",
+        "hashHtml": "",
+        "hashCategories": null,
+        "categories": ["Fahrzeuge", "Versicherung"],
+        "enrichedText": null,
+        "highlights": null
+      },
+      {
+        "id": "16472",
+        "resultMetadata": {
+          "score": null,
+          "confidence": null
+        },
+        "extractedMetadata": null,
+        "uid": "16472",
+        "title": "Neues System der Schadenfreiheitsklassen bei Pkw",
+        "html": "<html><head><style>p{margin-top:0px;margin-bottom:0px;}body{font-size:12pt;font-family:Arial;font-weight:normal;}</style></head><body><p style=\"margin-top:0;\">Wir haben ab 01.01.2019 ein neues Schadenfreiheitsrabatt-System f&#252;r Pkw eingef&#252;hrt. Der Beitragssatz sinkt bei 50 schadenfrei gefahrenen Jahren auf 16 %.</p><p style=\"margin-top:0;\">Der beitragsfreie Rabattretter ab der Schadenfreiheitsklasse (SF-Klasse) 25 &nbsp;ist bereits seit dem Tarifstand 01.01.2012 entfallen. Der Rabattretter erlaubte in der Kfz-Haftpflicht- und Vollkaskoversicherung einen Schaden ohne Beitragserh&#246;hung.</p><p style=\"margin-top:0;\">N&#228;here Informationen &#252;ber das neue Schadenfreiheitsrabatt-System finden Sie in den Allgemeinen Bedingungen f&#252;r die Kfz-Versicherung (AKB).</p></body></html>",
+        "text": "",
+        "hashTitle": "",
+        "hashHtml": "",
+        "hashCategories": null,
+        "categories": [],
+        "enrichedText": null,
+        "highlights": null
+      },
+      {
+        "id": "7511",
+        "resultMetadata": {
+          "score": null,
+          "confidence": null
+        },
+        "extractedMetadata": null,
+        "uid": "7511",
+        "title": "Außerbetriebsetzung des Fahrzeugs ",
+        "html": "<html xmlns=\"http://www.w3.org/1999/xhtml\"><head><style>p{margin-top:0px;margin-bottom:0px;}body{font-size:12pt;font-family:Arial;font-weight:normal;}</style></head><body><p>Die Au&#223;erbetriebsetzung des Fahrzeugs m&#252;ssen Sie bei Ihrer Zulassungsstelle vornehmen. Wir werden im Anschluss daran von der Zulassungsstelle &#252;ber die Stilllegung informiert und stellen Ihren Vertrag automatisch um.</p><p>F&#252;r die Au&#223;erbetriebsetzung bei der Zulassungsstelle ben&#246;tigen Sie folgende Unterlagen:</p><ul><li><div><p>KFZ-Brief bzw. Zulassungsbescheinigung Teil II,</p></div></li><li><div><p>KFZ-Schein bzw. Zulassungsbescheinigung Teil I, Kennzeichen</p></div></li><li><div><p>KFZ-Schilder</p></div></li></ul><p>Wenn Sie das Fahrzeug nach einer Au&#223;erbetriebsetzung wieder zulassen m&#246;chten, beantragen Sie bitte &#252;ber unser <a href=\"https://www.huk24.de/start_kontakt.do\">Kontaktformular</a> eine neue Versicherungsbest&#228;tigung. <br></p></body></html>",
+        "text": "",
+        "hashTitle": "",
+        "hashHtml": "",
+        "hashCategories": null,
+        "categories": ["Versicherung", "Fahrzeuge"],
+        "enrichedText": null,
+        "highlights": null
+      },
+      {
+        "id": "4742",
+        "resultMetadata": {
+          "score": null,
+          "confidence": null
+        },
+        "extractedMetadata": null,
+        "uid": "4742",
+        "title": "Was ist die Mallorca-Police?",
+        "html": "<html><head><style>p{margin-bottom:0px;margin-top:0px;}body{font-weight:normal;font-family:Arial;font-size:12pt;}</style></head><body><p>Die Mallorca-Police ist eine Erweiterung der Haftpflichtversicherung auf im europ&#228;ischen Ausland angemietete Pkw. Diese ist bei der HUK24 in der Kfz-Haftpflicht Classic f&#252;r PKW, Kr&#228;der und Campingfahrzeuge <b>ohne </b>gesonderten Mehrbeitrag enthalten. Die Mallorca-Police gilt l&#228;ngstens drei Monate ab Anmietung des Pkw.</p><p><br>Mietwagen sind im Ausland oft mit wesentlich niedrigeren Versicherungssummen haftpflichtversichert, als Sie es in Deutschland gewohnt sind. Im Falle eines Schadens kann es dann sein, dass die Deckungssummen nicht ausreichen, was im Extremfall Ihre Existenz gef&#228;hrden kann. &#220;bersteigt ein Schaden diese Deckungssummen, m&#252;ssen Sie den dar&#252;ber hinausgehenden&nbsp;Teil des Schadens aus eigener Tasche bezahlen. Es wird zun&#228;chst die Versicherungssumme des Vermieters ausgesch&#246;pft. Sollten diese nicht ausreichend sein, ersetzen wir den ausstehenden Betrag bis zu der in der Kfz-Haftpflicht vereinbarten Deckungssumme und damit bis zu 100 Mio. &#8364;.<br></p><p>Mit der Mallorca-Police haben Sie als Fahrer eines im europ&#228;ischen Ausland gemieteten Pkw besseren Versicherungsschutz, als es in vielen dieser L&#228;nder &#252;blich ist.</p></body></html>",
+        "text": "",
+        "hashTitle": "",
+        "hashHtml": "",
+        "hashCategories": null,
+        "categories": [
+          "Fahrzeuge",
+          "KFZ-Allgemein",
+          "KFZ-Deckungsumfang",
+          "Schaden",
+          "Versicherung",
+          "KFZ-Tarif"
+        ],
+        "enrichedText": null,
+        "highlights": null
+      },
+      {
+        "id": "59800",
+        "resultMetadata": {
+          "score": null,
+          "confidence": null
+        },
+        "extractedMetadata": null,
+        "uid": "59800",
+        "title": "Sie benötigen eine eVB (elektronische Versicherungsbestätigung) zur Zulassung Ihres KFZ?",
+        "html": "<html><head><style>p{margin-top:0px;margin-bottom:0px;}body{font-size:12pt;font-family:Arial;font-weight:normal;}</style></head><body><p>Ihre eVB-Nummer erhalten Sie in 90% aller F&#228;lle sofort nachdem Sie Ihren Antrag auf KFZ-Versicherung an uns abgeschickt haben, per E-Mail von uns.</p><p>&nbsp;</p><p><span style=\"font-weight:bold;\">Je nach Situation, gehen Sie bitte wie folgt vor:</span></p><ul><li>Sie sind bereits HUK24-Kunde und m&#246;chten ein neues Fahrzeug zulassen? <br>Klicken Sie oben rechts im Men&#252;punkt auf &quot;Anmelden&quot; und loggen Sie sich in Ihrem Servicebereich &quot;Meine HUK24&quot;ein. W&#228;hlen Sie Ihren bisherigen Vertrag aus und stellen Sie einen Antrag auf Fahrzeugwechsel. So &#252;bernehmen wir viele Daten aus Ihrem bisherigen Vertrag &#8211; das spart Ihnen Zeit. Sollten Sie Ihre Zugangsdaten nicht zur Hand haben, nehmen sie bitte <a target=\"_blank\" href=\"https://www.huk24.de/kontakt\">Kontakt</a>&nbsp;mit uns auf.</li><li>Sie m&#246;chte Ihr Fahrzeug erstmals bei der HUK24 versichern? <br>Stellen Sie bitte einen Antrag auf KFZ-Versicherung. Mehr Informationen erhalten Sie <a href=\"textobj://7518\">hier.</a></li><li>Sie m&#246;chten ein <a target=\"_blank\" href=\"https://www.huk24.de/selfservice.do?show=1&amp;ma=true&amp;docid=215\" style=\"font-weight:normal;\">Kurzzeitkennzeichen </a>zur &#220;berf&#252;hrung holen?<br>Im Rahmen der Online-Berechnung und -Antragsstellung k&#246;nnen Sie die eVB f&#252;r ein Kurzzeitkennzeichen mit anfordern. Sind Sie schon Kunde? Melden Sie sich bitte vorher an. Ihre Vertragsdaten werden automatisch in der Berechnung vorbelegt.</li><li>Sie m&#246;chten Ihr Fahrzeug aufgrund eines <a target=\"_blank\" href=\"https://www.huk24.de/selfservice.do?show=1&amp;ma=true&amp;docid=8923\" style=\"font-weight:normal;\">Umzuges</a>&nbsp;ummelden?<br>Bitte &#228;ndern Sie Ihre Adresse im Servicebereich. Noch am gleichen Werktag erhalten Sie gegen Abend eine eVB zur Ummeldung per E-Mail.</li><li>Sie m&#246;chten den <span style=\"font-weight:bold;\">H</span><span style=\"font-weight:bold;\">alter des Fahrzeuges </span>wechseln? Dann klicken Sie bitte <a href=\"textobj://15429\">hier.</a></li><li>Sie m&#246;chten Ihr <span style=\"font-weight:bold;\">stillgelegtes &nbsp;</span><span style=\"font-weight:bold;\">Fahrzeug &nbsp;</span>wieder zulassen? Dann klicken Sie bitte <a href=\"textobj://4764\">hier</a>.</li><li>Ihre Situation ist hier nicht aufgelistet? Bitte schreiben Sie uns eine <a target=\"_blank\" href=\"https://www.huk24.de/start_kontakt.do\">E-Mail</a>.</li></ul><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p></body></html>",
+        "text": "",
+        "hashTitle": "",
+        "hashHtml": "",
+        "hashCategories": null,
+        "categories": [
+          "Unfall",
+          "Hausrat",
+          "Servicebereich Meine HUK24",
+          "Technische Hilfe",
+          "Login",
+          "Versicherung",
+          "Fahrzeuge",
+          "Rechtsschutz",
+          "Haftpflicht",
+          "Wie funktioniert die HUK24?",
+          "Schadenservice"
+        ],
+        "enrichedText": null,
+        "highlights": null
+      },
+      {
+        "id": "4763",
+        "resultMetadata": {
+          "score": null,
+          "confidence": null
+        },
+        "extractedMetadata": null,
+        "uid": "4763",
+        "title": "Wann beginnt der Versicherungsschutz bei einer Kfz-Versicherung",
+        "html": "<html><head><style>p{margin-top:0px;margin-bottom:0px;}body{font-size:12pt;font-family:Arial;font-weight:normal;}</style></head><body>Schon ab Zulassung Ihres Fahrzeugs besteht Versicherungsschutz im Rahmen einer &quot;vorl&#228;ufigen Deckung&quot;. In der Kfz-Haftpflicht, beim Schutzbrief, Fahrerschutz, Ausland-Schadenschutz sowie Unfallmeldedienst (optional einschlie&#223;bar) gilt als Deckungszusage die Versicherungsbest&#228;tigung.<br><br>F&#252;r die Voll- und/oder Teilkasko beginnt der Versicherungsschutz ab Zugang Ihres Online-Antrags und einer entsprechenden Best&#228;tigung durch uns, fr&#252;hestens ab Zulassung des Fahrzeugs bzw. ab dem gew&#252;nschten Vertragsbeginn.<br><br>Nach Erhalt des Versicherungsscheins k&#246;nnen Sie innerhalb der n&#228;chsten zwei Wochen widerrufen. &#220;ben Sie Ihr Widerrufsrecht aus, endet die vorl&#228;ufige Deckung mit Zugang Ihres Widerrufs automatisch. Uns steht dann der auf die Zeit des Versicherungsschutzes entfallende Beitrag tageweise zu. <p>Die vorl&#228;ufige Deckung endet mit rechtzeitiger Zahlung des Erstbeitrags und geht in den Hauptvertrag &#252;ber.<br>Bitte beachten Sie: Wird der Beitrag nicht fristgerecht gezahlt, erlischt der Versicherungsschutz r&#252;ckwirkend ab Beginn! Sind schon Sch&#228;den eingetreten, besteht dann kein Versicherungsschutz.</p></body></html>",
+        "text": "",
+        "hashTitle": "",
+        "hashHtml": "",
+        "hashCategories": null,
+        "categories": ["Fahrzeuge", "KFZ-Allgemein", "KFZ-Angebot", "Versicherung"],
+        "enrichedText": null,
+        "highlights": null
+      },
+      {
+        "id": "4780",
+        "resultMetadata": {
+          "score": null,
+          "confidence": null
+        },
+        "extractedMetadata": null,
+        "uid": "4780",
+        "title": "HUK24-Kunden: Fahrzeugwechsel vornehmen",
+        "html": "<html xmlns=\"http://www.w3.org/1999/xhtml\"><head><style>p{margin-top:0px;margin-bottom:0px;}body{font-size:12pt;font-family:Arial;font-weight:normal;}body{font-size:12pt;font-family:Arial;}</style></head><body><p>Mit <span style=\"font-weight:bold;\">jedem </span>Fahrzeugwechsel wird rechtlich ein neuer Vertrag geschlossen. Daher ben&#246;tigen wir bei jedem Fahrzeugwechsel einen <span style=\"font-weight:bold;\">neuen Online-Antrag</span>. Vertragsgrundlagen werden dann die zum Zeitpunkt des Fahrzeugwechsels ma&#223;geblichen Versicherungsbedingungen.</p><p>&nbsp;</p><p><span style=\"font-weight:bold;\">So stellen Sie einen Online-Antrag auf Fahrzeugwechsel:</span></p><ul><li>Klicken Sie oben rechts im Men&#252;punkt auf &quot;Anmelden&quot; und loggen Sie sich mit Ihren Zugangsdaten in Ihrem Servicebereich &quot;Meine HUK24&quot; ein. Sie gelangen dann auf Ihre Kundenstartseite.<br>Hier k&#246;nnen Sie auf die Kachel &quot;Fahrzeug wechseln&quot; klicken.</li><li>Jetzt w&#228;hlen Sie nur noch den Vertrag aus, zu dem Sie den Fahrzeugwechsel vornehmen wollen und schon startet die Angebotsberechnung.</li></ul><br><b>Wird Ihnen die Kachel &quot;Fahrzeug wechseln&quot; nicht angezeigt, k&#246;nnen Sie alternativ so vorgehen:</b><ul><li>W&#228;hlen Sie unter &quot;Meine HUK24&quot; in der Navigation unter &quot;Vertr&#228;ge&quot; den Vertrag aus, zu dem Sie den Fahrzeugwechsel vornehmen wollen.</li><li>In der Vertragsansicht finden Sie ganz unten einen &quot;&#196;ndern&quot;-Button. Klicken Sie auf den Button, kommen Sie in eine &#220;bersicht, die Ihnen alle m&#246;glichen Vertrags&#228;nderungen auflistet.</li><li>W&#228;hlen Sie bitte unter &quot;Allgemeine Vertragsangaben&quot; die Option &quot;Fahrzeugwechsel&quot; und klicken sie auf &quot;Weiter&quot;. Nun startet die Angebotsberechnung.</li></ul><br><span style=\"font-weight:bold;\">Gut f&#252;r Sie</span>: <p>Wir belegen in der anschlie&#223;enden Angebotsberechnung bzw. Antragstellung s&#228;mtliche uns bekannten Angaben wie z.B. Ihre j&#228;hrliche Fahrleistung aus Ihrem bisherigen Vertrag vor. Das erleichtert Ihnen die Eingabe und spart Ihnen Zeit.</p><p><span style=\"font-weight:bold;\">Wie geht es nach Antragstellung weiter?</span></p><p>Die Versicherungsbest&#228;tigung (ehemals Deckungskarte) schicken wir Ihnen per E-Mail zu.</p><p>Bitte beachten Sie, dass in den Nebensparten (z. B. Kaskoversicherung) fr&#252;hestens ab Zugang Ihres Antrags Versicherungsschutz besteht.</p></body></html>",
+        "text": "",
+        "hashTitle": "",
+        "hashHtml": "",
+        "hashCategories": null,
+        "categories": [
+          "Fahrzeuge",
+          "KFZ-Kündigung/Verkauf",
+          "KFZ-Allgemein",
+          "Versicherung",
+          "KFZ-Angebot"
+        ],
+        "enrichedText": null,
+        "highlights": null
+      },
+      {
+        "id": "4834",
+        "resultMetadata": {
+          "score": null,
+          "confidence": null
+        },
+        "extractedMetadata": null,
+        "uid": "4834",
+        "title": "Was ist die Kfz-Umweltschadenversicherung?",
+        "html": "<html>\n  <head>\n    \n  </head>\n  <body>\n    Nach dem neuen Umweltschadensgesetz k&#246;nnen Kraftfahrer f&#252;r Umweltsch&#228;den \n    an gesch&#252;tzten Arten und Lebensr&#228;umen, die im Zusammenhang mit ihrer \n    beruflichen T&#228;tigkeit verursacht wurden, von Umweltbeh&#246;rden in Haftung \n    genommen werden.\n\n    <p>\n      W&#228;hrend die Kfz-Haftpflicht Umweltsch&#228;den ersetzt, f&#252;r die es eine \n      ersatzberechtigte nat&#252;rliche oder juristische Person gibt, sch&#252;tzt das \n      Umweltschadensgesetz die Natur an sich. Solche Sch&#228;den k&#246;nnen sehr teuer \n      werden.\n    </p>\n    <p>\n      Um diese Deckungsl&#252;cke zu schlie&#223;en, haben wir seit 01.04.2008 die \n      Kfz-Umweltschadenversicherung beitragsfrei f&#252;r alle unsere Kunden \n      aufgenommen. Unsere Kfz-Umweltschadenversicherung gilt ausschlie&#223;lich \n      f&#252;r Umweltsch&#228;den in Deutschland mit einer Versicherungssumme von 5 Mio. \n      &#8364; je Schadenfall, max. 10 Mio. &#8364; pro Versicherungsjahr. Weiterhin nehmen \n      wir keine R&#252;ckstufung im Schadenfall vor, wenn es sich ausschlie&#223;lich um \n      einen Schaden handelt, der unter die Kfz-Umweltschadenversicherung f&#228;llt.\n    </p>\n    <p>\n      Ein Beispiel f&#252;r einen Kfz-Umweltschaden:\n    </p>\n    <p>\n      Auf dem Weg zu einem Kundenbesuch ger&#228;t ein selbstst&#228;ndiger Elektriker \n      mit seinem Lieferwagen von der Stra&#223;e ab. Das Fahrzeug &#252;berschl&#228;gt sich \n      mehrfach. Dabei wird die &#214;lwanne des Fahrzeugs so besch&#228;digt, dass &#214;l \n      ausl&#228;uft und das Fahrzeug in Brand ger&#228;t. &#214;l und L&#246;schmittel geraten in \n      einen nahe liegenden See eines Naturschutzgebiets.\n    </p>\n    <p>\n      Die biologische Vielfalt der Wasserpflanzen wird gesch&#228;digt. Zudem \n      verenden alle im See beheimateten Lebewesen. Unter ihnen eine gesch&#252;tzte \n      Tierart - die kleinen Wasserfr&#246;sche.\n    </p>\n  </body>\n</html>",
+        "text": "",
+        "hashTitle": "",
+        "hashHtml": "",
+        "hashCategories": null,
+        "categories": [
+          "Fahrzeuge",
+          "KFZ-Deckungsumfang",
+          "KFZ-Angebot",
+          "KFZ-Allgemein",
+          "KFZ-Tarif",
+          "Versicherung"
+        ],
+        "enrichedText": null,
+        "highlights": null
+      }
+    ]
+  }
+}

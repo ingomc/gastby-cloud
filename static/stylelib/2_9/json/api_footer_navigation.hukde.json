@@ -1,0 +1,86 @@
+{
+  "contentlinks": [
+    {
+      "label": "Ihre Themenübersicht",
+      "links": [
+        {
+          "label": "Ratgeber Auto & Mobilität",
+          "href": "https://#"
+        },
+        {
+          "label": "Ratgeber Gesundheit, Vorsorge & Vermögen",
+          "href": "https://#"
+        },
+        {
+          "label": "Öffentlicher Dienst",
+          "href": "https://#"
+        },
+        {
+          "label": "Produkte für Unternehmen",
+          "href": "https://#"
+        }
+      ]
+    },
+    {
+      "label": "Unser Kundenservice",
+      "links": [
+        {
+          "label": "Meine HUK",
+          "href": "https://#"
+        },
+        {
+          "label": "Kontakt-Center",
+          "href": "https://#"
+        },
+        {
+          "label": "Schadenservice",
+          "href": "https://#"
+        },
+        {
+          "label": "Kunden werben Kunden",
+          "href": "https://#"
+        },
+        {
+          "label": "Apps",
+          "href": "https://#"
+        }
+      ]
+    }
+  ],
+  "legal": {
+    "links": [
+      {
+        "label": "Impressum",
+        "href": "/impressum"
+      },
+      {
+        "label": "Datenschutz",
+        "href": "/datenschutz"
+      },
+      {
+        "label": "Sitemap",
+        "href": "/sitemap"
+      }
+    ]
+  },
+  "social": {
+    "label": "Folgen Sie uns",
+    "links": [
+      {
+        "label": "HUK-COBURG Facebook Auftritt",
+        "href": "https://www.facebook.com/HUKCOBURG/",
+        "icon": "facebook"
+      },
+      {
+        "label": "HUK-COBURG YouTube Auftritt",
+        "href": "https://www.youtube.com/channel/UCltLTr_UDrtOxkkdqagjCbg",
+        "icon": "youtube"
+      },
+      {
+        "label": "HUK Blog",
+        "href": "http://www.huk-blog.de/?nmclick=ext_Link_HUK_Blog",
+        "icon": "rss"
+      }
+    ]
+  }
+}

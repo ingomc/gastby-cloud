@@ -1,0 +1,250 @@
+{
+  "links": [
+    {
+      "href": "https://api.trustpilot.com/v1/business-units/4cfcd62e00006400050e39ee",
+      "method": "GET",
+      "rel": "business-units"
+    },
+    {
+      "href": "https://api.trustpilot.com/v1/business-units/4cfcd62e00006400050e39ee/reviews?perPage=3&orderBy=createdat.desc&locale=de-DE&page=2&includeReportedReviews=false",
+      "method": "GET",
+      "rel": "next-page"
+    }
+  ],
+  "reviews": [
+    {
+      "links": [
+        {
+          "href": "https://api.trustpilot.com/v1/reviews/5e26210a3c93ae0b249352af",
+          "method": "GET",
+          "rel": "reviews"
+        },
+        {
+          "href": "https://api.trustpilot.com/v1/reviews/5e26210a3c93ae0b249352af/web-links",
+          "method": "GET",
+          "rel": "reviews-web-links"
+        },
+        {
+          "href": "https://api.trustpilot.com/v1/resources/images/stars/3",
+          "method": "GET",
+          "rel": "resources-images-stars"
+        }
+      ],
+      "id": "5e26210a3c93ae0b249352af",
+      "consumer": {
+        "links": [
+          {
+            "href": "https://api.trustpilot.com/v1/consumers/5e2620f6ddcefa99ae5b41bf",
+            "method": "GET",
+            "rel": "consumers"
+          }
+        ],
+        "id": "5e2620f6ddcefa99ae5b41bf",
+        "displayName": "Gallego",
+        "displayLocation": null,
+        "numberOfReviews": 1
+      },
+      "businessUnit": {
+        "links": [
+          {
+            "href": "https://api.trustpilot.com/v1/business-units/4cfcd62e00006400050e39ee",
+            "method": "GET",
+            "rel": "business-units"
+          },
+          {
+            "href": "https://s3-eu-west-1.amazonaws.com/tpd/screenshots/4cfcd62e00006400050e39ee/57x43.png",
+            "method": "GET",
+            "rel": "profile-image-small"
+          },
+          {
+            "href": "https://s3-eu-west-1.amazonaws.com/tpd/screenshots/4cfcd62e00006400050e39ee/118x89.png",
+            "method": "GET",
+            "rel": "profile-image-medium"
+          },
+          {
+            "href": "https://s3-eu-west-1.amazonaws.com/tpd/screenshots/4cfcd62e00006400050e39ee/198x149.png",
+            "method": "GET",
+            "rel": "profile-image-large"
+          }
+        ],
+        "id": "4cfcd62e00006400050e39ee",
+        "identifyingName": "huk24.de",
+        "displayName": "Huk24"
+      },
+      "location": null,
+      "stars": 3,
+      "title": "Funktion fehlt / Fragwürdiger Tarif",
+      "text": "blablablabla",
+      "language": "de",
+      "createdAt": "2020-01-20T21:52:10Z",
+      "updatedAt": null,
+      "companyReply": {
+        "createdAt": "2020-01-21T07:40:29Z",
+        "text": "Hallo Gallego,\ngerne möchte ich Ihnen weiterhelfen.\n\n1.) Zunächst als Information für Sie: \n\nWenn Sie ein weiteres Fahrzeug versichern, können grundsätzlich die Schadenfreiheitsklassen (SF-Klasse) aus einem bestehenden Vertrag übertragen werden. Während der Angebotsberechnung können Sie dies angeben.  \n\nDer bestehende Vertrag wird von uns im Anschluss automatisch als Zweitwagen eingestuft. Ein neuer Antrag für den Zweitwagen ist nicht zwingend erforderlich.\n\n2.) Bezüglich des neuen Versicherungstarifes:\n\nEs tut uns leid, wenn Sie sich von uns unzureichend informiert fühlen. Selbstverständlich ist es nicht unsere Absicht, Ihnen Neuigkeiten vorzuenthalten.\n\nWir sind immer bestrebt, unsere Tarife zeitnah an die aktuellen Marktgegebenheiten anzupassen. Deshalb sind wir auch in Zukunft immer öfter gefordert auf statistische Erkenntnisse mit Neuerungen zu reagieren. Oft ergeben sich durch neue Tarife auch Beitragserhöhungen, sodass sich eine Umstellung auf den neuen Tarif nicht lohnt.\n\nFür Sie besteht immer die Möglichkeit, Ihren bestehenden Tarif beizubehalten oder auf den neuesten umzustellen. Ein Neukunde erhält hingegen nur den aktuellen Tarif und hat keine Wahlmöglichkeit.\n\nBitte haben Sie Verständnis dafür, dass wir aus diesen Gründen keine Empfehlung geben, dass Sie Ihren Vertrag auf den aktuellesten Tarif umstellen.\n\nUnser Rat an Sie:\n\nErmitteln Sie jährlich die aktuellen Beiträge in Ihrem Servicebereich auf unserer Internetseite www.HUK24.de.\n\nFalls noch weitere Fragen offen sind, können Sie sich gerne bei mir per E-Mail (socialmedia@huk24.de) mit dem Betreff \"Bewertung auf Trustpilot\" melden.\n\nViele Grüße\nMax"
+      },
+      "isVerified": false,
+      "numberOfLikes": 0,
+      "status": "active",
+      "reportData": null,
+      "complianceLabels": [],
+      "countsTowardsTrustScore": true,
+      "countsTowardsLocationTrustScore": null,
+      "invitation": null
+    },
+    {
+      "links": [
+        {
+          "href": "https://api.trustpilot.com/v1/reviews/5e25e3a13c93ae0b2493222d",
+          "method": "GET",
+          "rel": "reviews"
+        },
+        {
+          "href": "https://api.trustpilot.com/v1/reviews/5e25e3a13c93ae0b2493222d/web-links",
+          "method": "GET",
+          "rel": "reviews-web-links"
+        },
+        {
+          "href": "https://api.trustpilot.com/v1/resources/images/stars/4",
+          "method": "GET",
+          "rel": "resources-images-stars"
+        }
+      ],
+      "id": "5e25e3a13c93ae0b2493222d",
+      "consumer": {
+        "links": [
+          {
+            "href": "https://api.trustpilot.com/v1/consumers/5e25e322616781267984d1b3",
+            "method": "GET",
+            "rel": "consumers"
+          }
+        ],
+        "id": "5e25e322616781267984d1b3",
+        "displayName": "Manfred",
+        "displayLocation": null,
+        "numberOfReviews": 1
+      },
+      "businessUnit": {
+        "links": [
+          {
+            "href": "https://api.trustpilot.com/v1/business-units/4cfcd62e00006400050e39ee",
+            "method": "GET",
+            "rel": "business-units"
+          },
+          {
+            "href": "https://s3-eu-west-1.amazonaws.com/tpd/screenshots/4cfcd62e00006400050e39ee/57x43.png",
+            "method": "GET",
+            "rel": "profile-image-small"
+          },
+          {
+            "href": "https://s3-eu-west-1.amazonaws.com/tpd/screenshots/4cfcd62e00006400050e39ee/118x89.png",
+            "method": "GET",
+            "rel": "profile-image-medium"
+          },
+          {
+            "href": "https://s3-eu-west-1.amazonaws.com/tpd/screenshots/4cfcd62e00006400050e39ee/198x149.png",
+            "method": "GET",
+            "rel": "profile-image-large"
+          }
+        ],
+        "id": "4cfcd62e00006400050e39ee",
+        "identifyingName": "huk24.de",
+        "displayName": "Huk24"
+      },
+      "location": null,
+      "stars": 4,
+      "title": "Freundlich und hilfsbereit",
+      "text": "Eine etwas komplizierte Angelegenheit wurde nach einigen Mails und Erklärungen super gelöst.",
+      "language": "de",
+      "createdAt": "2020-01-20T17:30:09Z",
+      "updatedAt": null,
+      "companyReply": null,
+      "isVerified": false,
+      "numberOfLikes": 0,
+      "status": "active",
+      "reportData": null,
+      "complianceLabels": [],
+      "countsTowardsTrustScore": true,
+      "countsTowardsLocationTrustScore": null,
+      "invitation": null
+    },
+    {
+      "links": [
+        {
+          "href": "https://api.trustpilot.com/v1/reviews/5e25daee3c93ae04c0cfa13f",
+          "method": "GET",
+          "rel": "reviews"
+        },
+        {
+          "href": "https://api.trustpilot.com/v1/reviews/5e25daee3c93ae04c0cfa13f/web-links",
+          "method": "GET",
+          "rel": "reviews-web-links"
+        },
+        {
+          "href": "https://api.trustpilot.com/v1/resources/images/stars/1",
+          "method": "GET",
+          "rel": "resources-images-stars"
+        }
+      ],
+      "id": "5e25daee3c93ae04c0cfa13f",
+      "consumer": {
+        "links": [
+          {
+            "href": "https://api.trustpilot.com/v1/consumers/584026f60000ff000a5cec0b",
+            "method": "GET",
+            "rel": "consumers"
+          }
+        ],
+        "id": "584026f60000ff000a5cec0b",
+        "displayName": "Herr SCHOLZ",
+        "displayLocation": null,
+        "numberOfReviews": 7
+      },
+      "businessUnit": {
+        "links": [
+          {
+            "href": "https://api.trustpilot.com/v1/business-units/4cfcd62e00006400050e39ee",
+            "method": "GET",
+            "rel": "business-units"
+          },
+          {
+            "href": "https://s3-eu-west-1.amazonaws.com/tpd/screenshots/4cfcd62e00006400050e39ee/57x43.png",
+            "method": "GET",
+            "rel": "profile-image-small"
+          },
+          {
+            "href": "https://s3-eu-west-1.amazonaws.com/tpd/screenshots/4cfcd62e00006400050e39ee/118x89.png",
+            "method": "GET",
+            "rel": "profile-image-medium"
+          },
+          {
+            "href": "https://s3-eu-west-1.amazonaws.com/tpd/screenshots/4cfcd62e00006400050e39ee/198x149.png",
+            "method": "GET",
+            "rel": "profile-image-large"
+          }
+        ],
+        "id": "4cfcd62e00006400050e39ee",
+        "identifyingName": "huk24.de",
+        "displayName": "Huk24"
+      },
+      "location": null,
+      "stars": 1,
+      "title": "ich wollte nur eine Umschreibung da es…",
+      "text": "ich wollte nur eine Umschreibung da es sich um ein selbes Fahrzeug handelt warum muß ich jetzt mehr bezahlen. selbes Auto  (seat Alhambra 1.9 tdi 116 ps ) nur das Baujahr und die km sind anders",
+      "language": "de",
+      "createdAt": "2020-01-20T16:53:02Z",
+      "updatedAt": null,
+      "companyReply": {
+        "createdAt": "2020-01-21T07:33:32Z",
+        "text": "Hallo Herr Scholz,\ngerne erläutere ich Ihnen den Sachverhalt.\n\nMit jedem Fahrzeugwechsel wird rechtlich ein neuer Vertrag geschlossen. Daher benötigen wir einen neuen Online-Antrag. Vertragsgrundlagen werden dann die zum Zeitpunkt des Fahrzeugwechsels maßgeblichen Versicherungsbedingungen. Aufgrund dessen ergibt sich ein abweichender Versicherungsbeitrag.\n\nViele Grüße\nMax"
+      },
+      "isVerified": false,
+      "numberOfLikes": 0,
+      "status": "active",
+      "reportData": null,
+      "complianceLabels": [],
+      "countsTowardsTrustScore": true,
+      "countsTowardsLocationTrustScore": null,
+      "invitation": null
+    }
+  ]
+}

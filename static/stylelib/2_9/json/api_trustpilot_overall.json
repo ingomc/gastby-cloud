@@ -1,0 +1,43 @@
+{
+  "links": [
+    {
+      "href": "https://api.trustpilot.com/v1/business-units/4cfcd62e00006400050e39ee/reviews",
+      "method": "GET",
+      "rel": "business-units-reviews"
+    },
+    {
+      "href": "https://api.trustpilot.com/v1/business-units/4cfcd62e00006400050e39ee/web-links",
+      "method": "GET",
+      "rel": "business-units-web-links"
+    },
+    {
+      "href": "https://api.trustpilot.com/v1/resources/strings/stars/4.5",
+      "method": "GET",
+      "rel": "resources-strings-stars"
+    },
+    {
+      "href": "https://api.trustpilot.com/v1/resources/images/stars/4.5",
+      "method": "GET",
+      "rel": "resources-images-stars"
+    }
+  ],
+  "id": "4cfcd62e00006400050e39ee",
+  "displayName": "Huk24",
+  "name": { "identifying": "huk24.de", "referring": ["huk24.de", "www.huk24.de"] },
+  "websiteUrl": "http://huk24.de",
+  "trustScore": 8.5,
+  "stars": 4,
+  "country": "DE",
+  "numberOfReviews": {
+    "total": 5514,
+    "usedForTrustScoreCalculation": 5439,
+    "oneStar": 376,
+    "twoStars": 124,
+    "threeStars": 112,
+    "fourStars": 399,
+    "fiveStars": 4503
+  },
+  "status": "active",
+  "score": { "trustScore": 4.4, "stars": 4.5 },
+  "warning": "The keys ‘stars’ and ‘trustScore’ are deprecated and will be completely removed by January 2020. Please use the object ‘score’ instead."
+}

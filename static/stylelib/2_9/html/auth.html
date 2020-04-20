@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="expires" content="0" />
+    <title>Auth</title>
+    <base href="/" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="robots" content="noindex,follow" />
+
+    <!-- favicons -->
+    <!-- basic favicon -->
+    <link rel="shortcut icon" href="/stylelib/2_9/img/favicon-32x32.png" />
+    <!-- Windows -->
+    <meta name="msapplication-square150x150logo" content="/stylelib/2_9/img/mstile-150x150.png" />
+    <meta name="msapplication-square310x310logo" content="/stylelib/2_9/img/mstile-310x310.png" />
+    <meta name="theme-color" content="#FFFFFF" />
+    <!-- Android -->
+    <link rel="shortcut icon" href="/stylelib/2_9/img/android-chrome-192x192.png" sizes="192x192" />
+    <!-- For iPhone 6 Plus with @3× display: -->
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="/stylelib/2_9/img/apple-touch-icon-180x180.png"
+    />
+    <!-- third-generation iPad with high-resolution Retina display: -->
+    <link
+      rel="apple-touch-icon"
+      sizes="152x152"
+      href="/stylelib/2_9/img/apple-touch-icon-152x152.png"
+    />
+    <!-- iPhone with high-resolution Retina display: -->
+    <link
+      rel="apple-touch-icon"
+      sizes="120x120"
+      href="/stylelib/2_9/img/apple-touch-icon-120x120.png"
+    />
+    <!-- first- and second-generation iPad: -->
+    <link rel="apple-touch-icon" sizes="76x76" href="/stylelib/2_9/img/apple-touch-icon-76x76.png" />
+    <!-- pinned tab -->
+    <link rel="mask-icon" href="/stylelib/2_9/img/safari-pinned-tab.svg" color="black" />
+
+    <script>
+      // This is needed for iOS 10, because there is no support for nomodule and it would load the polyfills double
+      // https://gist.github.com/samthor/64b114e4a4f539915a95b91ffd340acc
+      (function() {
+        // borrowed from loader.js
+        var isSafari10 =
+          window.navigator.userAgent.indexOf('Safari') > 0 &&
+          window.navigator.userAgent.indexOf('Version/10') > 0;
+
+        if (!isSafari10) {
+          return;
+        }
+
+        var check = document.createElement('script');
+        if (!('noModule' in check) && 'onbeforeload' in check) {
+          var support = false;
+          document.addEventListener(
+            'beforeload',
+            function(e) {
+              if (e.target === check) {
+                support = true;
+              } else if (!e.target.hasAttribute('nomodule') || !support) {
+                return;
+              }
+              e.preventDefault();
+            },
+            true,
+          );
+          check.type = 'module';
+          check.src = '.';
+          document.head.appendChild(check);
+          check.remove();
+        }
+      })();
+    </script>
+
+    <script src="/stylelib/2_9/js/loader.js"></script>
+
+    <link rel="stylesheet" href="/stylelib/2_9/css/init.css" media="print" onload="this.media='all'" />
+  </head>
+
+  <body>
+    <huk-root>
+      <style>
+        body {
+          background-color: #e7e9ea;
+          padding: 0;
+          margin: 0;
+        }
+
+        .skeleton__container {
+          max-width: 1060px;
+          margin: 0 auto;
+          padding: 0;
+        }
+
+        .skeleton__placeholder {
+          display: block;
+          background-color: #dfe3e6;
+          height: 0.75rem;
+          border-radius: 4px;
+          margin: 1.5rem 0;
+          width: 30%;
+          min-width: 100px;
+        }
+
+        .nojs-warning {
+          padding-bottom: 2rem;
+          color: red;
+        }
+
+        .skeleton__header {
+          background-color: #f2f4f5;
+          padding: 1rem;
+          min-height: 88px;
+        }
+
+        @media (min-width: 768px) {
+          .skeleton__header {
+            padding: 2rem 2.5rem;
+          }
+        }
+
+        .skeleton__logo {
+          margin-bottom: 1em;
+          width: 100px;
+          /* width height IE fix */
+          height: 30px;
+        }
+
+        .logo {
+          display: inline-block;
+          background-image: url('/stylelib/2_9/img/logo-xs.svg');
+          background-repeat: no-repeat;
+          background-position: left;
+          width: 96px;
+          height: 31px;
+        }
+
+        @media (min-width: 576px) {
+          .logo {
+            background-image: url('/stylelib/2_9/img/logo-sm.svg');
+            width: 120px;
+            height: 30px;
+          }
+        }
+
+        @media (min-width: 1024px) {
+          .logo {
+            background-image: url('/stylelib/2_9/img/logo-md.svg');
+          }
+        }
+
+        .skeleton__text {
+          width: 55%;
+          margin-bottom: 0.75rem;
+        }
+
+        .skeleton__content {
+          margin: 1rem auto;
+          padding: 0 1rem;
+          background-color: #f2f4f5;
+          border-radius: 4px;
+          max-width: 796px;
+          min-height: 200px;
+          height: 50vh;
+        }
+
+        @media (min-width: 768px) {
+          .skeleton__content {
+            border-radius: 0;
+            min-height: 400px;
+          }
+        }
+
+        .skeleton__content .skeleton__headline {
+          width: 40%;
+        }
+
+        @media (min-width: 768px) {
+          .skeleton__content .skeleton__headline {
+            margin-left: 1rem;
+          }
+        }
+
+        .skeleton__line {
+          background-color: #e7e9ea;
+          height: 4px;
+          margin-left: -1rem;
+          margin-right: -1rem;
+        }
+
+        .skeleton__loading {
+          overflow: hidden;
+          position: relative;
+          z-index: 10;
+        }
+
+        .skeleton__loading:after {
+          position: absolute;
+          top: 50%;
+          left: 50%;
+          display: block;
+          opacity: 0.5;
+          content: '';
+          width: 1000px;
+          height: 1000px;
+          -webkit-transform-origin: 0;
+          transform-origin: 0;
+          -webkit-transform: translate3d(-50%, -50%, 0);
+          transform: translate3d(-50%, -50%, 0);
+          background-color: transparent;
+          background-image: linear-gradient(
+            -45deg,
+            transparent 48%,
+            #fff 48%,
+            #fff 52%,
+            transparent 52%,
+            transparent 100%
+          );
+          background-repeat: no-repeat;
+          -webkit-transition: all 1s ease-in-out;
+          transition: all 1s ease-in-out;
+          -webkit-animation: skeleton-loading 2.2s linear infinite;
+          animation: skeleton-loading 2.2s linear infinite;
+          z-index: 100;
+        }
+
+        @-webkit-keyframes skeleton-loading {
+          from {
+            -webkit-transform: translate3d(-50%, -200%, 0);
+            transform: translate3d(-50%, -200%, 0);
+          }
+
+          to {
+            -webkit-transform: translate3d(-50%, 100%, 0);
+            transform: translate3d(-50%, 100%, 0);
+          }
+        }
+
+        @keyframes skeleton-loading {
+          from {
+            -webkit-transform: translate3d(-50%, -200%, 0);
+            transform: translate3d(-50%, -200%, 0);
+          }
+
+          to {
+            -webkit-transform: translate3d(-50%, 100%, 0);
+            transform: translate3d(-50%, 100%, 0);
+          }
+        }
+      </style>
+
+      <div class="skeleton">
+        <div class="skeleton__header skeleton__loading">
+          <noscript>
+            <div class="nojs-warning">
+              <p>
+                <strong>Wichtiger Hinweis zur Nutzung unseres Internetauftrittes:</strong> Sie haben
+                kein Javascript aktiviert. Ohne Javascript kann unsere Webseite nicht genutzt
+                werden. Bitte aktivieren Sie Javascript in Ihrem Internetbrowser.
+                <a href="/start_selfservice.do?show=1&docid=9356">
+                  So k&ouml;nnen Sie Javascript aktivieren &rsaquo;
+                </a>
+              </p>
+            </div>
+          </noscript>
+          <div class="skeleton__logo">
+            <div class="logo"></div>
+          </div>
+        </div>
+        <div class="skeleton__container">
+          <div class="skeleton__content skeleton__loading">
+            <div class="skeleton__headline skeleton__placeholder"></div>
+            <div class="skeleton__line"></div>
+          </div>
+        </div>
+      </div>
+    </huk-root>
+  </body>
+</html>

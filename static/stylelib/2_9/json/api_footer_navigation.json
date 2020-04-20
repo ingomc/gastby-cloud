@@ -1,0 +1,146 @@
+{
+  "contentlinks": [
+    {
+      "label": "Unsere Versicherungen",
+      "links": [
+        {
+          "label": "Autoversicherung",
+          "href": "https://#"
+        },
+        {
+          "label": "Motorradversicherung",
+          "href": "https://#"
+        },
+        {
+          "label": "Wohnmobilversicherung",
+          "href": "https://#"
+        },
+        {
+          "label": "Telematik-Tarif",
+          "href": "https://#"
+        },
+        {
+          "label": "Privathaftplicht",
+          "href": "https://#"
+        },
+        {
+          "label": "Tierhalterhaftplicht",
+          "href": "https://#"
+        },
+        {
+          "label": "Hausratversicherung",
+          "href": "https://#"
+        },
+        {
+          "label": "Wohngebäudeversicherung",
+          "href": "https://#"
+        },
+        {
+          "label": "Unfallversicherung",
+          "href": "https://#"
+        },
+        {
+          "label": "Verkehrsrechtsschutz",
+          "href": "https://#"
+        },
+        {
+          "label": "Rechtsschutz komplett",
+          "href": "https://#"
+        },
+        {
+          "label": "Berufsunfähigkeitsversicherung",
+          "href": "https://#"
+        },
+        {
+          "label": "Risikolebensversicherung",
+          "href": "https://#"
+        },
+        {
+          "label": "Riester Rente",
+          "href": "https://#"
+        },
+        {
+          "label": "Rürup Rente",
+          "href": "https://#"
+        },
+        {
+          "label": "Private Krankenversicherung",
+          "href": "https://#"
+        },
+        {
+          "label": "Reisekrankenversicherung",
+          "href": "https://#"
+        },
+        {
+          "label": "Zahnzusatzversicherung",
+          "href": "https://#"
+        }
+      ]
+    },
+    {
+      "label": "Weitere Informationen",
+      "links": [
+        {
+          "label": "Startseite",
+          "href": "https://#"
+        },
+        {
+          "label": "Über uns",
+          "href": "https://#"
+        },
+        {
+          "label": "Kontakt",
+          "href": "https://#"
+        },
+        {
+          "label": "Impressum",
+          "href": "https://#"
+        },
+        {
+          "label": "Datenschutz",
+          "href": "https://#"
+        },
+        {
+          "label": "Nutzungsbedingungen",
+          "href": "https://#"
+        }
+      ]
+    }
+  ],
+  "legal": {
+    "links": [
+      {
+        "label": "Impressum",
+        "href": "/impressum"
+      },
+      {
+        "label": "Datenschutz",
+        "href": "/datenschutz"
+      },
+      {
+        "label": "Sitemap",
+        "href": "/sitemap"
+      }
+    ]
+  },
+  "social": {
+    "label": "Folgen Sie uns",
+    "links": [
+      {
+        "label": "HUK24 Facebook Auftritt",
+        "href": "/http://www.facebook.com/huk24/?nmclick=ext_Link_FB_H24",
+        "icon": "facebook"
+      },
+      {
+        "label": "HUK24 YouTube Auftritt",
+        "href": "/http://www.youtube.com/user/HUK24/?nmclick=ext_Link_FB_YT24",
+        "icon": "youtube"
+      },
+      {
+        "label": "HUK Blog",
+        "href": "/http://www.huk-blog.de/?nmclick=ext_Link_HUK_Blog",
+        "icon": "rss"
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "success": true,
+  "message": "answer_given",
+  "result": {
+    "matchingResults": 10,
+    "passages": [],
+    "documents": [
+      {
+        "id": "4765",
+        "resultMetadata": {
+          "score": null,
+          "confidence": null
+        },
+        "extractedMetadata": null,
+        "uid": "4765",
+        "title": "Ich möchte mein neues KFZ bei der HUK24 versichern - wie gehe ich vor?",
+        "html": "<html><head><style>p{margin-top:0px;margin-bottom:0px;}body{font-size:12pt;font-family:Arial;font-weight:normal;}</style></head><body>So berechnen Sie sich Ihr pers&#246;nliches Angebot und beantragen im Anschluss Versicherungsschutz f&#252;r Ihr neues Fahrzeug:<br><ul><li>Klicken Sie in der Kopfzeile unter dem Men&#252;punkt &quot;Angebot berechnen&quot; auf die gew&#252;nschte Versicherung.</li><li>Durch den Klick auf den Button &quot;Preis berechnen&quot; gelangen Sie in den Angebotsrechner.</li><li>Bitte beantworten Sie die Fragen im Angebotsrechner - im Anschluss erhalten Sie Ihr pers&#246;nliches Angebot.</li><li>Sagt Ihnen das Angebot zu? Dann klicken Sie auf &quot;Weiter&quot;.</li><li>Sie erhalten nun Fragen, die f&#252;r den Vertrag relevant sind.</li><li>Im n&#228;chsten Schritt werden Sie gebeten, sich f&#252;r den Servicebereich &quot;Meine HUK24&quot; zu registrieren. Wenn Sie bereits einen HUK24-Benutzer-Account haben, melden Sie sich bitte mit Ihren vorhandenen Zugangsdaten an. Alternativ haben Sie die M&#246;glichkeit auf &quot;Weiter ohne Registrierung&quot; zu gehen. Sie erhalten dann Ihre Zugangsdaten f&#252;r Ihren pers&#246;nlichen Servicebereich &quot;Meine HUK24&quot; in wenigen Tagen per Post</li><li>Anschlie&#223;end fragen wir nach Ihren pers&#246;nlichen Daten.</li><li>Danach ist der Versicherungsantrag fertig gestellt und Sie k&#246;nnen ihn per Klick direkt an uns absenden.</li><li>Die &#220;bermittlung des Antrags wird Ihnen direkt nach der Antragstellung per E-Mail best&#228;tigt.</li></ul><p>Wie es nach der Antragstellung weiter geht, finden Sie <a href=\"textobj://26182\">hier</a>.</p><br></body></html>",
+        "text": "",
+        "hashTitle": "",
+        "hashHtml": "",
+        "hashCategories": null,
+        "categories": ["Fahrzeuge", "Versicherung", "Servicebereich Meine HUK24"],
+        "enrichedText": null,
+        "highlights": null
+      },
+      {
+        "id": "15380",
+        "resultMetadata": {
+          "score": null,
+          "confidence": null
+        },
+        "extractedMetadata": null,
+        "uid": "15380",
+        "title": "Ich kann mein Fahrzeug in der Fahrzeugsuche nicht finden",
+        "html": "<html>\n  <head>\n    \n  </head>\n  <body>\n    Fahrzeuge, die nicht im Typklassenverzeichnis gelistet sind (z. B. \n    Ferrari) k&#246;nnen bei der HUK24 nicht versichert werden. In seltenen F&#228;llen \n    kann es allerdings auch vorkommen, dass neu erscheinende Fahrzeugmodelle \n    noch nicht im Typklassenverzeichnis aufgenommen wurden. In diesem Fall \n    bitten wir Sie darum die Angebotsberechnung und Antragstellung zeitnah vor \n    dem Liefertermin Ihres Fahrzeugs durchzuf&#252;hren bzw. beim H&#228;ndler die \n    Hersteller- und Typschl&#252;sselnummern zu erfragen.<br><br>Bei einem \n    EU-Reimport (Typschl&#252;sselnummer 000) w&#228;hlen Sie bitte einen passenden Typ \n    aus der Fahrzeugsuche aus.<br><br>Bitte beachten Sie, dass eine falsche \n    Schreibweise (z. B. Golf 4 statt Golf IV) &#252;ber die Fahrzeugsuche nicht zu \n    einem Ergebnis f&#252;hrt. Gegebenenfalls empfiehlt es sich deshalb die \n    Fahrzeugsuche nur mit einem Wort oder dem Oberbegriff (z. B. Golf) \n    durchzuf&#252;hren.<br><br>Wenn Sie unsicher sind, ob Ihr Fahrzeug bei der \n    HUK24 versichert werden kann, lassen Sie uns bitte eine E-Mail mit den \n    kompletten Fahrzeugdaten oder sofern vorhanden eine Kopie des \n    Fahrzeugscheins / Zulassungsbescheinigung Teil I zukommen. Wir pr&#252;fen dann \n    umgehend, ob eine Versicherung bei uns m&#246;glich ist und nennen Ihnen den \n    Hersteller und Typschl&#252;ssel f&#252;r die Angebotsberechnung.<br><br>\n\n    <p>\n      &#160;\n    </p>\n    <ul>\n      \n    </ul>\n    <p>\n      &#160;\n    </p>\n  </body>\n</html>\n",
+        "text": "",
+        "hashTitle": "",
+        "hashHtml": "",
+        "hashCategories": null,
+        "categories": ["Fahrzeuge", "Versicherung"],
+        "enrichedText": null,
+        "highlights": null
+      },
+      {
+        "id": "4747",
+        "resultMetadata": {
+          "score": null,
+          "confidence": null
+        },
+        "extractedMetadata": null,
+        "uid": "4747",
+        "title": "Einstufung eines weiteren Pkw (Zweitwagen)",
+        "html": "<html xmlns=\"http://www.w3.org/1999/xhtml\"><head><style>p{margin-top:0px;margin-bottom:0px;}body{font-size:12pt;font-family:Arial;font-weight:normal;}</style></head><body><p>Bei der Angebotsberechnung ermitteln wir aufgrund Ihrer Angaben automatisch die bestm&#246;gliche Vertragseinstufung.</p><p>Sie w&#252;nschen detailliertere Informationen?</p><p><strong>Ein Pkw kann mit der Schadenfreiheitsklasse (SF) 1 bis 4 beginnen, wenn folgende Bedingungen zugleich erf&#252;llt sind:</strong></p><ul><li><div><p>Sie oder Ihr Ehe-/Lebenspartner haben bereits ein Fahrzeug (z.B. Pkw, Motorrad, Lieferwagen etc.) mit einer SF versichert.</p></div></li><li><div><p>Dieses Fahrzeug ist &nbsp;in die SF 1 bis 4 oder besser eingestuft.</p></div></li><li><div><p>Die Fahrer des Zweitfahrzeugs sind mindestens 23 Jahre alt.</p></div></li><li>Die Einstufung des Zweitfahrzeugs erfolgt in die SF-Klasse des Erstfahrzeugs. Bei Pkw max. in die SF 4.</li></ul><p>&nbsp;</p><p><strong>Ein Pkw kann mit der SF 1/2 beginnen, wenn eine der folgenden Bedingungen erf&#252;llt ist:</strong></p><ul><li><div><p>Sie oder Ihr Ehe-/Lebenspartner haben eine KFZ-Versicherung f&#252;r ein Fahrzeug, das mindestens in die SF 1/2 eingestuft ist.</p></div></li><li><div><p>Ihre Eltern haben eine KFZ-Versicherung f&#252;r ein Fahrzeug, das mindestens in die SF 1/2 eingestuft ist.</p></div></li><li><div><p>Sie besitzen seit mindestens drei Jahren den F&#252;hrerschein. <br></p></div></li></ul><p>In allen anderen F&#228;llen wird dem Vertrag die SF 0 zu Grunde gelegt.</p></body></html>",
+        "text": "",
+        "hashTitle": "",
+        "hashHtml": "",
+        "hashCategories": null,
+        "categories": ["Versicherung", "Fahrzeuge", "Servicebereich Meine HUK24", "Schadenservice"],
+        "enrichedText": null,
+        "highlights": null
+      },
+      {
+        "id": "9665",
+        "resultMetadata": {
+          "score": null,
+          "confidence": null
+        },
+        "extractedMetadata": null,
+        "uid": "9665",
+        "title": "Tipps für Ihren Auslandsurlaub mit und ohne Auto",
+        "html": "<html><head><style>p{margin-top:0px;margin-bottom:0px;}body{font-size:12pt;font-weight:normal;font-family:Arial;}</style></head><body><p><a href=\"textobj://4833\"><b>Auslands-Schadenschutz</b></a></p><p>Der Auslands-Schadenschutz stellt Sie bei einem unverschuldeten Unfall im Ausland so, als sei der Unfall in Deutschland geschehen. Sie wenden sich an uns! Wir erstatten Ihnen alle Forderungen, auf die Sie in Deutschland Anspruch h&#228;tten, wenn der Unfall-Verursacher bei uns mit den gleichen Summen versichert w&#228;re wie Sie. Der Ausland-Schadenschutz ist die optimale Erg&#228;nzung zu Schutzbrief und Vollkaskoversicherung.<br></p><p><a href=\"textobj://4742\"><b>Mallorca-Police</b></a></p><p>Da Mietautos im Ausland h&#228;ufig mit sehr niedrigen Deckungssummen versichert sind, haben wir in der Classic-Deckung bei Pkw die Mallorca-Police eingeschlossen. Sie haben damit f&#252;r den im europ&#228;ischen Ausland gemieteten Pkw automatisch Kfz-Haftpflicht-Versicherungsschutz, der den ausstehenden Betrag bis zur bei uns vereinbarten Versicherungssumme abdeckt.<br></p><p>Denken Sie auch an sich: Unsere <b>Auslandsreise-Krankenversicherung </b>sollte keinesfalls im Reisegep&#228;ck fehlen. Sie bietet Ihnen weltweit Versicherungsschutz und Serviceleistungen in Notf&#228;llen.<br></p></body></html>",
+        "text": "",
+        "hashTitle": "",
+        "hashHtml": "",
+        "hashCategories": null,
+        "categories": [
+          "Versicherung",
+          "KFZ-Angebot",
+          "KFZ-Allgemein",
+          "Auslandsreisekranken",
+          "Fahrzeuge"
+        ],
+        "enrichedText": null,
+        "highlights": null
+      },
+      {
+        "id": "4693",
+        "resultMetadata": {
+          "score": null,
+          "confidence": null
+        },
+        "extractedMetadata": null,
+        "uid": "4693",
+        "title": "Welche Fahrzeuge versichert die HUK24?",
+        "html": "<html xmlns=\"http://www.w3.org/1999/xhtml\"><head><br><br><br><style>p{margin-top:0px;margin-bottom:0px;}body{font-size:12pt;font-family:Arial;font-weight:normal;}</style></head><body><strong>Wir versichern:</strong><ul><li><p>Autos</p></li><li><p>Kr&#228;der, Trikes und Quads (Kraftr&#228;der, Leichtkraftr&#228;der und Leichtkraftroller), <strong>wenn </strong>diese in der Rubrik &quot;Komfortsuche&quot; bei der Angebotsberechnung aufgef&#252;hrt werden</p></li><li><p>Wohnmobile (Campingfahrzeuge)</p></li><li><p>Lieferwagen bis 3500 kg Gesamtmasse</p></li><li><p>Anh&#228;nger zur G&#252;terbef&#246;rderung</p></li><li><p>Wohnwagenanh&#228;nger</p></li></ul><strong>Wir versichern nicht:</strong><ul><li><p>Pkw, Kr&#228;der, Trikes und Quads die <span style=\"font-weight:bold;\">nicht </span>im Typklassenverzeichnis enthalten sind, bzw. die <span style=\"font-weight:bold;\">nicht </span>in der Komfortsuche bei einer Angebotsberechnung aufgef&#252;hrt sind</p></li><li><p>Traktoren und Zugmaschinen</p></li><li><p>Fahrzeuge mit Versicherungskennzeichen (Mofa, Moped)</p></li><li><p>Lieferwagen &#252;ber 3500 kg Gesamtmasse</p></li><li><p>Anh&#228;nger in Sonderausf&#252;hrungen</p></li><li><p>Sonder-Kfz (z.B. B&#252;ro- oder Werkstattfahrzeug).<br></p></li></ul><p>Wenn Sie Versicherungsschutz f&#252;r ein bei uns nicht zu versicherndes Fahrzeug ben&#246;tigen, wenden Sie sich bitte an die <a href=\"http://www.huk.de\">HUK-COBURG.</a></p><p>&nbsp;</p><p>&#220;brigens: Um welche Fahrzeugart es sich bei Ihrem Fahrzeug handelt, k&#246;nnen Sie der Zulassungsbescheinigung Teil I (ehemals Fahrzeugschein) entnehmen.<br></p></body></html>",
+        "text": "",
+        "hashTitle": "",
+        "hashHtml": "",
+        "hashCategories": null,
+        "categories": [
+          "Versicherung",
+          "KFZ-Angebot",
+          "Wie funktioniert die HUK24?",
+          "KFZ-Allgemein",
+          "HUK24-Allgemein (alle Sparten)",
+          "Fahrzeuge",
+          "Servicebereich Meine HUK24",
+          "Technische Hilfe"
+        ],
+        "enrichedText": null,
+        "highlights": null
+      },
+      {
+        "id": "4672",
+        "resultMetadata": {
+          "score": null,
+          "confidence": null
+        },
+        "extractedMetadata": null,
+        "uid": "4672",
+        "title": "Kann mein Führerschein für die Einstufung (Auto) berücksichtigt werden?",
+        "html": "<html xmlns=\"http://www.w3.org/1999/xhtml\"><head><title>Versichern Sie ein Auto und haben keine anrechenbare Vorversicherungszeit (&quot;Prozente&quot;)?</title><style>p{margin-top:0px;margin-bottom:0px;}body{font-size:12pt;font-family:Arial;font-weight:normal;}</style></head><body><p><strong>Versichern Sie ein Auto und haben keine anrechenbare Vorversicherungszeit (&quot;Prozente&quot;)?</strong></p><p>Ihr Vertrag kann in der Kfz-Haftpflichtversicherung und Vollkasko in die Schadenfreiheitsklasse (SF-Klasse) &#189; eingestuft werden, wenn Sie seit mindestens drei Jahren ununterbrochen den F&#252;hrerschein haben.</p><p>Andernfalls kann Ihr Vertrag nur in die SF-Klasse 0 eingestuft werden.</p></body></html>",
+        "text": "",
+        "hashTitle": "",
+        "hashHtml": "",
+        "hashCategories": null,
+        "categories": ["Fahrzeuge", "Versicherung"],
+        "enrichedText": null,
+        "highlights": null
+      },
+      {
+        "id": "4733",
+        "resultMetadata": {
+          "score": null,
+          "confidence": null
+        },
+        "extractedMetadata": null,
+        "uid": "4733",
+        "title": "Wie ermittle ich die richtige Schadenfreiheitsklasse für die Kfz-Angebotsberechnung?",
+        "html": "<html><head><style>p{margin-top:0px;margin-bottom:0px;}body{font-size:12pt;font-family:Arial;font-weight:normal;}</style></head><body>Wenn Sie einen Versichererwechsel oder einen Fahrzeugwechsel vornehmen wollen, gilt Folgendes:<br><strong></strong><strong>Allgemein:</strong><ul><li>Bitte berechnen Sie Ihren Beitrag mit den SF-Klassen f&#252;r das laufende Jahr. Diese finden Sie in Ihrer aktuellen Beitragsrechnung.</li><li>Wechseln Sie im kommenden Jahr zu uns (Beginn 01.01. oder sp&#228;ter), nehmen Sie bitte die SF-Klasse aus der Beitragsrechnung f&#252;r das kommende Jahr. Liegt Ihnen diese noch nicht vor, dann addieren Sie bitte jeweils eine Klasse zu den SF-Klassen hinzu, sofern Ihr Vertrag in diesem Jahr schadenfrei und ununterbrochen verlaufen ist.</li><li>Die Beitragss&#228;tze k&#246;nnen vom alten Vertrag abweichen. Bitte orientieren Sie sich ausschlie&#223;lich an der SF-Klasse (<a href=\"textobj://4736\">Details</a>).</li></ul><strong>Die wichtigsten Ausnahmen</strong>: <ul><li>Ihr Vertrag ist in der SF-Klasse 25 eingestuft (<a href=\"textobj://16223\">Details</a>)</li><li>Ihr Vertrag ist schadenbelastet und muss zur&#252;ckgestuft werden. Unsere R&#252;ckstufungtabellen im Schadenfall finden Sie in den Versicherungsbedingungen im Tarifrechner.</li><li>Sie m&#246;chten die SF-Klasse eines Dritten &#252;bernehmen (<a href=\"textobj://255\">Details</a>).</li><li>Sie m&#246;chten sich eine ausl&#228;ndische Vorversicherungszeit anrechnen lassen (<a href=\"textobj://162\">Details</a>)</li><li>Ihr Vertrag war l&#228;nger als 180 Tage unterbrochen, z.B. durch Stilllegung des Fahrzeuges oder Saisonkennzeichen <a href=\"textobj://4767\">(Details zu den Unterbrechungsgrunds&#228;tzen)</a>.</li><li>Ihrem Vertrag liegt eine <a href=\"textobj://16471\">Sondereinstufung</a>&nbsp;zu Grunde.Informationen zur Einstufungsregelung f&#252;r Zweitfahrzeuge oder F&#252;hrerscheinneulinge ohne eigene Vorversicherungszeit finden Sie hier:&nbsp;&nbsp;<a href=\"textobj://4747\">Pkw</a>/<a href=\"textobj://4748\">Krad</a>.<br></li></ul></body></html>",
+        "text": "",
+        "hashTitle": "",
+        "hashHtml": "",
+        "hashCategories": null,
+        "categories": [
+          "Servicebereich Meine HUK24",
+          "Technische Hilfe",
+          "Login",
+          "KFZ-Angebot",
+          "KFZ-Deckungsumfang",
+          "KFZ-Kündigung/Verkauf",
+          "KFZ-Einstufungen",
+          "Versicherung",
+          "Wie funktioniert die HUK24?",
+          "KFZ-Tarif",
+          "Fahrzeuge",
+          "KFZ-Allgemein"
+        ],
+        "enrichedText": null,
+        "highlights": null
+      },
+      {
+        "id": "4750",
+        "resultMetadata": {
+          "score": null,
+          "confidence": null
+        },
+        "extractedMetadata": null,
+        "uid": "4750",
+        "title": "Versicherungsbestätigung (EVB) zur Zulassung eines Fahrzeugs anfordern",
+        "html": "<html xmlns=\"http://www.w3.org/1999/xhtml\"><head><style>p{margin-top:0px;margin-bottom:0px;}body{font-size:12pt;font-family:Arial;font-weight:normal;}</style></head><body><p>Bitte stellen Sie online einen <a href=\"textobj://4160\">Antrag</a><abr>&nbsp;auf Kfz-Versicherung. Im Anschluss senden wir Ihnen <strong>sofort &nbsp;</strong>per <strong>E-Mail &nbsp;</strong>eine &nbsp;<strong>Versicherungsbest&#228;tigungs-Nummer (EVB) </strong>zur Zulassung Ihres Fahrzeugs zu.<br></abr></p><p>In Ausnahmef&#228;llen kann es vorkommen, dass Sie die Mail erst am n&#228;chsten Werktag erhalten.<br></p><p>Wenn Sie eine EVB ben&#246;tigen, um einen Halterwechsel vorzunehmen, dann klicken Sie bitte <a href=\"textobj://15429\">hier</a><abr>.<br></abr></p></body></html>",
+        "text": "",
+        "hashTitle": "",
+        "hashHtml": "",
+        "hashCategories": null,
+        "categories": [
+          "Versicherung",
+          "Wie funktioniert die HUK24?",
+          "HUK24-Allgemein (alle Sparten)",
+          "Fahrzeuge",
+          "Servicebereich Meine HUK24",
+          "Schadenservice",
+          "Login",
+          "Technische Hilfe"
+        ],
+        "enrichedText": null,
+        "highlights": null
+      },
+      {
+        "id": "33180",
+        "resultMetadata": {
+          "score": null,
+          "confidence": null
+        },
+        "extractedMetadata": null,
+        "uid": "33180",
+        "title": "Wann ist eine Kaskoversicherung für meinen Pkw sinnvoll?",
+        "html": "<html xmlns=\"http://www.w3.org/1999/xhtml\"><head><style>p{margin-top:0px;margin-bottom:0px;}body{font-size:12pt;font-family:Arial;font-weight:normal;}</style></head><body><p style=\"margin-bottom:15px;\">Eine Kaskoversicherung kommt f&#252;r Sch&#228;den an Ihrem Fahrzeug auf. Dabei unterscheidet man zwischen der Teilkasko- und der Vollkaskoversicherung.</p><p style=\"margin-bottom:15px;\">Wir empfehlen die Vollkaskoversicherung als umfassenden Schutz f&#252;r Ihr Fahrzeug. Ganz besonders wichtig ist die Vollkaskoversicherung f&#252;r neue und h&#246;herwertige Fahrzeuge. Auch bei &#228;lteren oder geringwertigeren Fahrzeugen raten wir zum umfassenderen Schutz durch die Vollkasko z. B. bei selbstverschuldeten Unf&#228;llen mit hohem Schaden am eigenen Fahrzeug.</p><p style=\"margin-bottom:15px;\">Die Vollkasko ersetzt folgende Sch&#228;den: <ul><li>Alle Sch&#228;den im Rahmen der Teilkasko</li><li>Unfallsch&#228;den, egal wer den Unfall verschuldet hat</li><li>Mutwillige Besch&#228;digung des Fahrzeugs durch Fremde</li><li>Bei Transport auf einem Schiff</li></ul></p><p>&nbsp;</p><p>Sollten Sie sich aus wirtschaftlichen Gr&#252;nden gegen den Abschluss einer Vollkasko entscheiden, haben Sie die M&#246;glichkeit alternativ nur eine Teilkasko abzuschlie&#223;en.</p><p style=\"margin-bottom:15px;\">Die Teilkasko ersetzt Sch&#228;den durch folgende Ereignisse: <ul><li>Brand oder Explosion</li><li>Entwendung (Diebstahl und Raub), Unterschlagung oder Erpressung</li><li>Naturgewalten (Sturm, Hagel, Blitzschlag, &#220;berschwemmung, Erdbeben, Erdsenkung, Erdrutsch, Lawinen oder Vulkanausbruch). Bei PKW im Basis-Tarif sind Lawinen nicht versichert.</li><li>Zusammensto&#223; mit Tieren aller Art. Bei PKW im Basis-Tarif sind nur Wildsch&#228;den versichert.</li><li>Bruch der Verglasung</li><li>Versichert sind Sch&#228;den an der Verkabelung des Fahrzeugs durch Kurzschluss. Folgesch&#228;den am Fahrzeug sind bis zu 3.000 &#8364; je Schadenfall versichert.</li><li>Tierbiss (z.B. Marderbiss) an Kabeln, Schl&#228;uche, Gummimanschetten, D&#228;mmmaterial und Leitungen. Folgesch&#228;den am Fahrzeug durch Tierbiss sind bis zu 6.000 &#8364; je Schadenfall versichert. (Kraftr&#228;der, Campingfahrzeugen, PKW im Classic-Tarif).</li></ul></p><p>&nbsp;</p><p>Weitere Informationen zum Leistungsumfang finden Sie in unseren Allgemeinen Bedingungen f&#252;r die Kfz-Versicherung.</p><p style=\"margin-bottom:15px;\">Unsere besonderen Vorteile f&#252;r Sie: <ul><li>Wir verzichten weitgehend auf den Einwand der groben Fahrl&#228;ssigkeit: Ausgeschlossen vom Versicherungsschutz bleibt das Fahren unter der Einnahme berauschender Mittel (z.B. Alkohol) oder wenn es einem Dieb besonders leicht gemacht wurde.</li><li>Neuwertentsch&#228;digung bei PKW gilt 18 Monate lang: Wir erstatten den Neupreis des Fahrzeugs innerhalb von 18 Monaten nach Erstzulassung bei Diebstahl oder Totalschaden. Im Basis-Tarif gilt die Neupreisentsch&#228;digung 6 Monate, mit Kasko PLUS sogar 36 Monate.</li><li>Wegfall des Abzugs &quot;neu f&#252;r alt&quot;: Keine K&#252;rzungen, wenn bei einer Reparatur &#228;ltere Teile durch Neuteile ersetzt werden.</li><li>Austausch von T&#252;r- und Lenkradschl&#246;ssern nach Entwendung der Fahrzeugschl&#252;ssel durch Einbruchdiebstahl &#8211; nicht aus dem Kraftfahrzeug - , Raub oder Erpressung. Oder Neucodierung bei einem schl&#252;ssellosen Zugangs- und Startsystem, wenn sich unberechtigte Dritte die Zugangsdaten beschafft haben.</li><li>Die Differenzkaskoversicherung f&#252;r geleaste PKW (GAP) ersetzt Ihnen bei Leasing die Differenz zwischen dem Wiederbeschaffungswert und dem Abl&#246;sewert des Leasingvertrags bei einem Totalschaden oder Verlust des Fahrzeugs. Im Basis-Tarif gibt es die Differenzkasko nicht.</li><li>Ersatz von Zulassungs- und &#220;berf&#252;hrungskosten: f&#252;r Ihr Ersatzfahrzeug bis maximal 500 &#8364; nach einem Totalschaden, Zerst&#246;rung oder dem Verlust des versicherten Fahrzeugs, sofern das Ersatzfahrzeug bei uns versichert wird.</li></ul></p><p style=\"margin-bottom:15px;\">&nbsp;</p><p>&nbsp;</p><p>Folgende Leitfragen k&#246;nnen Ihnen bei der Entscheidung helfen</p><ul><li>Welcher Versicherungsumfang ist Ihnen f&#252;r Ihre Kfz-Versicherung wichtig?</li><li>Wie sehr sind Sie auf Ihr Fahrzeug angewiesen?</li><li>H&#228;tten Sie im Falle eines Totalschadens gen&#252;gend Geld zur Verf&#252;gung, um sich ein gleichwertiges Fahrzeug kaufen zu k&#246;nnen? K&#246;nnen und m&#246;chten Sie Ihr angespartes Kapital daf&#252;r nutzen?</li><li>Berechnen Sie sich den Beitrag f&#252;r Ihre Autoversicherung. Steht der Beitrag f&#252;r die Kaskoversicherung f&#252;r Sie in einem angemessenen Verh&#228;ltnis zum Wert des Fahrzeugs?<span style=\"font-weight:bold;\">&nbsp;</span></li></ul><p style=\"margin-bottom:15px;\"><span style=\"font-weight:bold;\">&nbsp;</span></p><p style=\"margin-bottom:15px;\"><span style=\"font-weight:bold;\">Unser Tipp:</span><br>Sie k&#246;nnen den Beitrag f&#252;r Ihre Kaskoversicherung auch selbst beeinflussen. W&#228;hlen Sie Kasko SELECT oder eine h&#246;here Selbstbeteiligung im Schadensfall, ergibt sich ein g&#252;nstigerer Beitrag. Wenn Sie eine h&#246;here Selbstbeteiligung oder Kasko-SELECT im Schadensfall w&#228;hlen, ergibt sich ein g&#252;nstigerer Beitrag. Egal, ob Sie sich nun f&#252;r oder gegen eine Kaskoversicherung entscheiden:<br>Beachten Sie, dass sich Ihre pers&#246;nliche Situation in der Zukunft ver&#228;ndern kann. &#220;berpr&#252;fen Sie daher regelm&#228;&#223;ig, ob der aktuelle Umfang Ihrer Kfz-Versicherung noch zu Ihrer pers&#246;nlichen Situation passt.</p></body></html>",
+        "text": "",
+        "hashTitle": "",
+        "hashHtml": "",
+        "hashCategories": null,
+        "categories": ["Versicherung", "Fahrzeuge"],
+        "enrichedText": null,
+        "highlights": null
+      },
+      {
+        "id": "4287",
+        "resultMetadata": {
+          "score": null,
+          "confidence": null
+        },
+        "extractedMetadata": null,
+        "uid": "4287",
+        "title": "Was bietet der Schutzbrief in der Kfz-Versicherung?",
+        "html": "<html xmlns=\"http://www.w3.org/1999/xhtml\"><head><style>p{margin-top:0px;margin-bottom:0px;}body{font-size:12pt;font-family:Arial;font-weight:normal;}</style></head><body>Wenn Sie sich bei Ihrem Auto, Motorrad oder Campingfahrzeug (bis 4 t zul&#228;ssiges Gesamtgewicht) f&#252;r die Haftpflichtversicherung mit integriertem Schutzbrief entscheiden, k&#246;nnen Sie bei einem Unfall oder einer Panne auf uns z&#228;hlen. Wir organisieren alle n&#246;tigen Hilfsma&#223;nahmen und &#252;bernehmen die Kosten. <p><b>Hier ein &#220;berblick &#252;ber die Schutzbriefleistungen:</b></p><p><img border=\"0\" src=\"/content/dam/huk24/versicherungen/fahrzeuge/schutzbriefleistungen_2017.png\" alt=\"Leistungen Schutzbrief\"></p><p>Informationen zum Geltungsbereich finden Sie <a href=\"textobj://9664\">hier</a>.<br>Weitere Informationen k&#246;nnen Sie den Versicherungsbedingungen entnehmen.</p></body></html>",
+        "text": "",
+        "hashTitle": "",
+        "hashHtml": "",
+        "hashCategories": null,
+        "categories": [
+          "Fahrzeuge",
+          "Versicherung",
+          "KFZ-Deckungsumfang",
+          "KFZ-Allgemein",
+          "Servicebereich Meine HUK24",
+          "Schadenservice",
+          "Login"
+        ],
+        "enrichedText": null,
+        "highlights": null
+      }
+    ]
+  }
+}

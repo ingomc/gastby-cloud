@@ -1,0 +1,394 @@
+{
+  "items": [
+    {
+      "href": "/",
+      "items": [
+        {
+          "href": "/",
+          "image": "/stylelib/2_9/img/car.svg",
+          "items": [
+            {
+              "href": "/autoversicherung",
+              "label": "Autoversicherung",
+              "isNew": true,
+              "items": [
+                {
+                  "href": "/autoversicherung/unfallmeldedienst",
+                  "label": "Unfallmeldedienst"
+                },
+                {
+                  "href": "/autoversicherung/evb-nummer",
+                  "label": "eVB-Nummer"
+                },
+                {
+                  "href": "/autoversicherung/smart-driver",
+                  "label": "Smart Driver"
+                },
+                {
+                  "href": "/autoversicherung/doppelkarte",
+                  "label": "Doppelkarte"
+                },
+                {
+                  "href": "/autoversicherung/teilkasko",
+                  "label": "Teilkasko"
+                },
+                {
+                  "href": "/autoversicherung/vollkasko",
+                  "label": "Vollkasko"
+                },
+                {
+                  "href": "/autoversicherung/sonderkuendigungsrecht",
+                  "label": "Sonderkündigungsrecht"
+                },
+                {
+                  "href": "/autoversicherung/kfz-schutzbrief",
+                  "label": "Kfz-Schutzbrief"
+                },
+                {
+                  "href": "/autoversicherung/tipps-und-tricks-beim-autokauf",
+                  "label": "Tipps und Tricks beim Autokauf"
+                },
+                {
+                  "href": "/autoversicherung/kaufvertrag-auto",
+                  "label": "Kaufvertrag Auto"
+                },
+                {
+                  "href": "/autoversicherung/gewaehrleistung-und-garantie",
+                  "label": "Gewährleistung und Garantie beim Autokauf"
+                },
+                {
+                  "href": "/autoversicherung/dokumente-fuer-die-kfz-zulassung",
+                  "label": "Dokumente für die Kfz-Zulassung"
+                },
+                {
+                  "href": "/autoversicherung/elektroautos-steuervorteile-und-versicherung",
+                  "label": "Elektroautos: Steuervorteile und Versicherung"
+                },
+                {
+                  "href": "/autoversicherung/was-sind-schadstoffklasse-und-umweltplakette",
+                  "label": "Was sind Schadstoffklasse und Umweltplakette?"
+                },
+                {
+                  "href": "/autoversicherung/kosten-fuer-den-fuehrerschein",
+                  "label": "Kosten für den Führerschein"
+                },
+                {
+                  "href": "/autoversicherung/versicherungstipps-fuer-fahranfaenger",
+                  "label": "Versicherungstipps für Fahranfänger"
+                },
+                {
+                  "href": "/autoversicherung/fuehrerschein-auf-probe",
+                  "label": "Führerschein auf Probe"
+                },
+                {
+                  "href": "/autoversicherung/fahrsicherheitstraining",
+                  "label": " Fahrsicherheitstraining"
+                },
+                {
+                  "href": "/autoversicherung/was-tun-bei-einem-unfall",
+                  "label": "Was tun bei einem Unfall?"
+                },
+                {
+                  "href": "/autoversicherung/wildunfall",
+                  "label": "Wildunfall"
+                },
+                {
+                  "href": "/autoversicherung/panne",
+                  "label": "Panne"
+                },
+                {
+                  "href": "/autoversicherung/gruene-karte",
+                  "label": "Grüne Karte"
+                },
+                {
+                  "href": "/autoversicherung/mallorca-police",
+                  "label": "Mallorca Police"
+                },
+                {
+                  "href": "/autoversicherung/ratgeber-mietwagen",
+                  "label": "Ratgeber Mietwagen"
+                },
+                {
+                  "href": "/autoversicherung/verkehrsverstoesse-im-ausland",
+                  "label": "Verkehrsverstöße im Ausland"
+                },
+                {
+                  "href": "/autoversicherung/telematik-plus",
+                  "label": "Telematik Plus"
+                }
+              ]
+            },
+            {
+              "href": "/motorradversicherung",
+              "label": "Motorrad"
+            },
+            {
+              "href": "/mopedversicherung",
+              "label": "Moped"
+            },
+            {
+              "href": "/wohnmobilversicherung",
+              "label": "Wohnmobil"
+            },
+            {
+              "href": "/lieferwagenversicherung",
+              "label": "Lieferwagen"
+            },
+            {
+              "href": "/anhaengerversicherung",
+              "label": "Anhänger"
+            }
+          ],
+          "label": "Kfz-Versicherung"
+        },
+        {
+          "href": "/",
+          "image": "/stylelib/2_9/img/identitatsprufung.svg",
+          "items": [
+            {
+              "href": "/hausratversicherung",
+              "items": [
+                {
+                  "href": "/hausratversicherung/fahrraddiebstahlversicherung",
+                  "label": "Fahrraddiebstahlversicherung"
+                },
+                {
+                  "href": "/hausratversicherung/ratgeber-fahrraddiebstahl",
+                  "label": "Ratgeber Fahrraddiebstahl"
+                },
+                {
+                  "href": "/hausratversicherung/was-tun-nach-einem-einbruch",
+                  "label": "Was tun nach einem Einbruch?"
+                },
+                {
+                  "href": "/hausratversicherung/umzug-der-versicherung-melden",
+                  "label": "Umzug der Versicherung melden"
+                },
+                {
+                  "href": "/hausratversicherung/was-tun-bei-einem-wasserschaden",
+                  "label": "Was tun bei einem Wasserschaden?"
+                },
+                {
+                  "href": "/hausratversicherung/wasserschaden-vorbeugen",
+                  "label": "Wasserschäden vorbeugen"
+                },
+                {
+                  "href": "/hausratversicherung/rauchmelder",
+                  "label": "Rauchmelder"
+                },
+                {
+                  "href": "/hausratversicherung/elementarversicherung",
+                  "label": "Elementarversicherung"
+                },
+                {
+                  "href": "/hausratversicherung/ratgeber-gewitter",
+                  "label": "Ratgeber Gewitter"
+                }
+              ],
+              "label": "Hausratversicherung"
+            },
+            {
+              "href": "/haftpflichtversicherung",
+              "items": [
+                {
+                  "href": "/haftpflichtversicherung/berufseinsteiger",
+                  "label": "Berufseinsteiger"
+                }
+              ],
+              "label": "Privathaftpflicht"
+            },
+            {
+              "href": "/tierhalterhaftpflicht",
+              "label": "Tierhalterhaftpflicht"
+            },
+            {
+              "href": "/haus-und-grundbesitzerhaftpflicht",
+              "label": "Haus- & Grundbesitzerhaftpflicht"
+            },
+            {
+              "href": "/wohngebaeudeversicherung",
+              "label": "Wohngebäudeversicherung"
+            },
+            {
+              "href": "/bauherrenhaftpflicht",
+              "label": "Bauherrenhaftpflicht"
+            }
+          ],
+          "label": "Haftpflicht & Wohnen"
+        },
+        {
+          "href": "/",
+          "image": "/stylelib/2_9/img/sparschwein.svg",
+          "items": [
+            {
+              "href": "/rechtsschutzversicherung",
+              "items": [
+                {
+                  "href": "/rechtsschutzversicherung/privat-beruf-verkehr-rechtsschutz",
+                  "label": "Privat-, Berufs- und Verkehrsrechtsschutz"
+                }
+              ],
+              "label": "Rechtsschutz"
+            },
+            {
+              "href": "/berufsunfaehigkeitsversicherung",
+              "label": "Berufsunfähigkeit"
+            },
+            {
+              "href": "/risikolebensversicherung",
+              "label": "Risikolebensversicherung"
+            },
+            {
+              "href": "/riester-rente",
+              "label": "Riester Rente"
+            },
+            {
+              "href": "/ruerup-rente",
+              "label": "Rürup Rente"
+            },
+            {
+              "href": "/sofortrente",
+              "label": "Sofortrente"
+            }
+          ],
+          "label": "Vorsorge & Vermögen"
+        },
+        {
+          "href": "/",
+          "image": "/stylelib/2_9/img/schild--plus.svg",
+          "items": [
+            {
+              "href": "/unfallversicherung",
+              "label": "Unfallversicherung"
+            },
+            {
+              "href": "/kinderunfallversicherung",
+              "label": "Kinderunfallversicherung"
+            },
+            {
+              "href": "/private-krankenversicherung",
+              "label": "Private Krankenversicherung"
+            },
+            {
+              "href": "/auslandskrankenversicherung",
+              "items": [
+                {
+                  "href": "/auslandskrankenversicherung/checkliste-fuer-die-reiseplanung",
+                  "label": "Checkliste für die Reiseplanung"
+                }
+              ],
+              "label": "Auslandskrankenversicherung"
+            },
+            {
+              "href": "/zahnzusatzversicherung",
+              "label": "Zahnzusatzversicherung"
+            },
+            {
+              "href": "/pflegezusatzversicherung",
+              "label": "Pflegezusatzversicherung"
+            }
+          ],
+          "label": "Gesundheit"
+        }
+      ],
+      "label": "Angebot berechnen"
+    },
+    {
+      "href": "/",
+      "items": [
+        {
+          "href": "/",
+          "image": "/stylelib/2_9/img/schild--cursor.svg",
+          "items": [
+            {
+              "href": "/kunden-werben",
+              "items": [
+                {
+                  "href": "/kunden-werben/teilnahmebedingungen",
+                  "label": "Teilnahmebedingungen"
+                }
+              ],
+              "label": "Kunden werben"
+            },
+            {
+              "href": "/vorteilswelt",
+              "label": "Vorteilswelt"
+            },
+            {
+              "href": "/huk24-im-test",
+              "label": "HUK24 im Test"
+            },
+            {
+              "href": "/schaden-melden",
+              "label": "Schaden melden"
+            }
+          ],
+          "label": "Für unsere Kunden"
+        },
+        {
+          "href": "/",
+          "image": "/stylelib/2_9/img/car.svg",
+          "items": [
+            {
+              "href": "/kfz-schutzbrief",
+              "label": "Kfz-Schutzbrief"
+            },
+            {
+              "href": "/unfallmeldedienst",
+              "label": "Unfallmeldedienst"
+            },
+            {
+              "href": "/telematikplus",
+              "items": [
+                {
+                  "href": "/telematikplus/hilfe",
+                  "items": [
+                    {
+                      "href": "/telematikplus/hilfe/telematik-einrichten",
+                      "label": "Telematik einrichten"
+                    },
+                    {
+                      "href": "/telematikplus/hilfe/app-einrichten",
+                      "label": "App einrichten"
+                    },
+                    {
+                      "href": "/telematikplus/hilfe/android",
+                      "label": "android"
+                    },
+                    {
+                      "href": "/telematikplus/hilfe/telematik-faq",
+                      "label": "telematik-faq"
+                    }
+                  ],
+                  "label": "Telematik Hilfe"
+                },
+                {
+                  "href": "/telematikplus/datenschutz-telematik-plus",
+                  "label": "Datenschutz Telematik Plus"
+                }
+              ],
+              "label": "Telematik Plus"
+            }
+          ],
+          "label": "Rund ums Auto"
+        },
+        {
+          "href": "/",
+          "image": "/stylelib/2_9/img/fragezeichen.svg",
+          "items": [
+            {
+              "href": "/FAQ",
+              "label": "FAQ / Hilfe"
+            },
+            {
+              "href": "/kontakt",
+              "label": "Kontakt"
+            }
+          ],
+          "label": "Hilfe & Kontakt"
+        }
+      ],
+      "label": "Service & Kontakt"
+    }
+  ]
+}

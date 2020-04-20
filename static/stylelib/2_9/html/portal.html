@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="expires" content="0" />
+    <title>Kundenbereich</title>
+    <base href="/" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="robots" content="noindex,follow" />
+
+    <!-- favicons -->
+    <!-- basic favicon -->
+    <link rel="shortcut icon" href="/stylelib/2_9/img/favicon-32x32.png" />
+    <!-- Windows -->
+    <meta name="msapplication-square150x150logo" content="/stylelib/2_9/img/mstile-150x150.png" />
+    <meta name="msapplication-square310x310logo" content="/stylelib/2_9/img/mstile-310x310.png" />
+    <meta name="theme-color" content="#FFFFFF" />
+    <!-- Android -->
+    <link rel="shortcut icon" href="/stylelib/2_9/img/android-chrome-192x192.png" sizes="192x192" />
+    <!-- For iPhone 6 Plus with @3× display: -->
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="/stylelib/2_9/img/apple-touch-icon-180x180.png"
+    />
+    <!-- third-generation iPad with high-resolution Retina display: -->
+    <link
+      rel="apple-touch-icon"
+      sizes="152x152"
+      href="/stylelib/2_9/img/apple-touch-icon-152x152.png"
+    />
+    <!-- iPhone with high-resolution Retina display: -->
+    <link
+      rel="apple-touch-icon"
+      sizes="120x120"
+      href="/stylelib/2_9/img/apple-touch-icon-120x120.png"
+    />
+    <!-- first- and second-generation iPad: -->
+    <link rel="apple-touch-icon" sizes="76x76" href="/stylelib/2_9/img/apple-touch-icon-76x76.png" />
+    <!-- pinned tab -->
+    <link rel="mask-icon" href="/stylelib/2_9/img/safari-pinned-tab.svg" color="black" />
+
+    <script>
+      // This is needed for iOS 10, because there is no support for nomodule and it would load the polyfills double
+      // https://gist.github.com/samthor/64b114e4a4f539915a95b91ffd340acc
+      (function() {
+        // borrowed from loader.js
+        var isSafari10 =
+          window.navigator.userAgent.indexOf('Safari') > 0 &&
+          window.navigator.userAgent.indexOf('Version/10') > 0;
+
+        if (!isSafari10) {
+          return;
+        }
+
+        var check = document.createElement('script');
+        if (!('noModule' in check) && 'onbeforeload' in check) {
+          var support = false;
+          document.addEventListener(
+            'beforeload',
+            function(e) {
+              if (e.target === check) {
+                support = true;
+              } else if (!e.target.hasAttribute('nomodule') || !support) {
+                return;
+              }
+              e.preventDefault();
+            },
+            true,
+          );
+          check.type = 'module';
+          check.src = '.';
+          document.head.appendChild(check);
+          check.remove();
+        }
+      })();
+    </script>
+
+    <script src="/stylelib/2_9/js/loader.js"></script>
+
+    <link rel="stylesheet" href="/stylelib/2_9/css/init.css" media="print" onload="this.media='all'" />
+  </head>
+
+  <body class="body--gradient">
+    <huk-root></huk-root>
+  </body>
+
+  <script defer>
+    var prod = /\.huk24\.de$/.test(location.hostname);
+    if (!prod) {
+      script = document.createElement('script');
+      script.src = 'https://unpkg.com/source-map-support/browser-source-map-support.js';
+      script.onload = function() {
+        sourceMapSupport.install();
+      };
+      document.body.appendChild(script);
+    }
+  </script>
+  <script src="/cookiebanner/cookiebanner.js"></script>
+  <script>
+    function appendLaunch() {
+      var launchScript = document.createElement('script');
+      launchScript.src = prod
+        ? '/content/dam/huk24/dokumente/tagmanager/launch-EN02f08e3456644c9888813876898d8d4a.min.js'
+        : '/content/dam/huk24/dokumente/tagmanager/launch-ENea49b92cb40143099950c41769cc1001-staging.min.js';
+      document.head.appendChild(launchScript);
+    }
+    window.registerCookieBannerCallback(function(s, u) {
+      if (u && s.marketing) {
+        appendLaunch();
+      }
+    });
+  </script>
+</html>
